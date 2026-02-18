@@ -1,6 +1,6 @@
-# Hi, ich bin Markus | Quantum + AI Builder | Public-by-default
+# Hi, I'm Markus | Quantum + AI Builder | Public-by-default
 
-> Ich dokumentiere meine Projekte offen, baue schnell und iteriere mit echten Ergebnissen.
+> I build in public and document everything so others can reproduce results fast.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -10,38 +10,38 @@
 
 ## Current Projects
 
-- **[grammar](https://github.com/eybmits/grammar)** - macOS-Menubar-App für automatische Textkorrektur (Accessibility + LLM).
-- **[qrc_budget](https://github.com/eybmits/qrc_budget)** - Experimente zu Quantum Reservoir Computing unter Budget-Constraints.
-- **[qrc-website](https://github.com/eybmits/qrc-website)** - Interaktive Lernseite zu QRC + Spaced-Repetition.
-- **[personal-website](https://github.com/eybmits/personal-website)** - Persönliche Webseite auf Astro.
-- **[eybmits.github.io](https://github.com/eybmits/eybmits.github.io)** - Live-Deploy-Repo für die öffentliche Seite.
+- **[grammar](https://github.com/eybmits/grammar)** - macOS menu bar app for automatic grammar correction (Accessibility + LLM).
+- **[qrc_budget](https://github.com/eybmits/qrc_budget)** - Quantum Reservoir Computing experiments under budget constraints.
+- **[qrc-website](https://github.com/eybmits/qrc-website)** - Interactive QRC learning site with spaced repetition.
+- **[personal-website](https://github.com/eybmits/personal-website)** - Personal website built with Astro.
+- **[eybmits.github.io](https://github.com/eybmits/eybmits.github.io)** - Live deployment repository for my public website.
 
 ## Public Documentation Hub
 
-Alle öffentlichen Repos an einem Ort, inklusive Kurzbeschreibung:
+All public repositories in one place, with a short purpose summary:
 
-| Repository | Zweck | Letztes Update |
+| Repository | Purpose | Last Updated |
 |---|---|---|
 | [personal-website](https://github.com/eybmits/personal-website) | Personal website based on Astro | 2026-02-17 |
 | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Live website for eybmits | 2026-02-17 |
-| [qc_entanglement](https://github.com/eybmits/qc_entanglement) | Quantum-Entanglement Experimente | 2026-02-17 |
-| [qrc_budget](https://github.com/eybmits/qrc_budget) | QRC Budget-Experimente | 2026-02-17 |
-| [qrc-website](https://github.com/eybmits/qrc-website) | Interaktive QRC-Learning-Site | 2026-02-13 |
-| [qtp](https://github.com/eybmits/qtp) | QTP-Research-Repository | 2026-01-29 |
-| [qrc_low_data_advantage](https://github.com/eybmits/qrc_low_data_advantage) | QRC bei wenig Trainingsdaten | 2025-12-20 |
-| [Labeling](https://github.com/eybmits/Labeling) | Image Labeling Tool | 2025-06-01 |
-| [MemeNSFWPipeline](https://github.com/eybmits/MemeNSFWPipeline) | NSFW/Meme Pipeline Experimente | 2025-01-12 |
-| [emoNet](https://github.com/eybmits/emoNet) | Emotion-Netzwerk-Prototypen | 2024-02-20 |
+| [qc_entanglement](https://github.com/eybmits/qc_entanglement) | Quantum entanglement experiments | 2026-02-17 |
+| [qrc_budget](https://github.com/eybmits/qrc_budget) | QRC budget experiments | 2026-02-17 |
+| [qrc-website](https://github.com/eybmits/qrc-website) | Interactive QRC learning site | 2026-02-13 |
+| [qtp](https://github.com/eybmits/qtp) | QTP research repository | 2026-01-29 |
+| [qrc_low_data_advantage](https://github.com/eybmits/qrc_low_data_advantage) | QRC under low-data regimes | 2025-12-20 |
+| [Labeling](https://github.com/eybmits/Labeling) | Image labeling tool | 2025-06-01 |
+| [MemeNSFWPipeline](https://github.com/eybmits/MemeNSFWPipeline) | NSFW/meme pipeline experiments | 2025-01-12 |
+| [emoNet](https://github.com/eybmits/emoNet) | Emotion network prototypes | 2024-02-20 |
 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/eybmits)
 
-## Was ich gerade mache
+## What I'm Working On
 
-- QRC-Forschung in reproduzierbare, dokumentierte Repositories überführen.
-- Tooling bauen, das Theorie, Experimente und Visualisierung verbindet.
-- Öffentliche Doku so strukturieren, dass man in wenigen Minuten onboarden kann.
+- Turning QRC research into reproducible, well-documented repositories.
+- Building tooling that connects theory, experiments, and visualization.
+- Keeping public docs concise and easy to onboard.
 
 ## Links
 
@@ -50,10 +50,10 @@ Alle öffentlichen Repos an einem Ort, inklusive Kurzbeschreibung:
 
 ---
 
-### Arbeitsprinzip
+### Working Style
 
-**Ship > perfekt.**
+**Ship > perfect.**
 
-Ich veröffentliche früh, dokumentiere transparent und verbessere iterativ.
+I publish early, document transparently, and iterate fast.
 
-_Profile refresh trigger: 2026-02-17 22:41 CET_
+_Last profile update: 2026-02-18._
