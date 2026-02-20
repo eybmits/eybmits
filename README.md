@@ -26,12 +26,6 @@
   Production deployment for my public website.  
   Live: [eybmits.github.io](https://eybmits.github.io)
 
-- 🧪 **[QTP Research Lab](https://github.com/eybmits/qtp)**  
-  Experiments and reproducible code around QTP research directions.
-
-- 📉 **[QRC Low-Data Advantage](https://github.com/eybmits/qrc_low_data_advantage)**  
-  Focused experiments on QRC performance in low-data regimes.
-
 ## 📚 Public Documentation Hub
 
 Only public project repositories, each with a short purpose and (when available) a live link:
@@ -42,8 +36,6 @@ Only public project repositories, each with a short purpose and (when available)
 | [qrc-website](https://github.com/eybmits/qrc-website) | Interactive Quantum Reservoir Computing learning platform | [Website](https://eybmits.github.io/qrc-website/) | 2026-02-18 |
 | [personal-website](https://github.com/eybmits/personal-website) | Astro-based source for my personal web presence | [Website](https://eybmits.github.io/) | 2026-02-17 |
 | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Production deployment repository for my public site | [Website](https://eybmits.github.io) | 2026-02-17 |
-| [qtp](https://github.com/eybmits/qtp) | QTP research code and experimental artifacts | — | 2026-01-29 |
-| [qrc_low_data_advantage](https://github.com/eybmits/qrc_low_data_advantage) | QRC under low-data constraints and robustness analysis | — | 2025-12-20 |
 
 ## GitHub Activity
 
