@@ -18,13 +18,9 @@
   Interactive Quantum Reservoir Computing learning experience with study workflows and explainable examples.  
   Repo: [eybmits/qrc-website](https://github.com/eybmits/qrc-website)
 
-- 🌐 **[Personal Website (Astro)](https://eybmits.github.io/)**  
+- 🌐 **[Personal Website](https://eybmits.github.io/)**  
   My public website with projects, updates, and research highlights.  
-  Repo: [eybmits/personal-website](https://github.com/eybmits/personal-website)
-
-- 🚀 **[Website Deployment Repo](https://github.com/eybmits/eybmits.github.io)**  
-  Production deployment for my public website.  
-  Live: [eybmits.github.io](https://eybmits.github.io)
+  Repos: [Source (Astro)](https://github.com/eybmits/personal-website) · [Deployment](https://github.com/eybmits/eybmits.github.io)
 
 ## 📚 Public Documentation Hub
 
