@@ -10,28 +10,26 @@
 
 ## Current Projects
 
-- **[grammar](https://github.com/eybmits/grammar)** - macOS menu bar app for automatic grammar correction (Accessibility + LLM).
-- **[qrc_budget](https://github.com/eybmits/qrc_budget)** - Quantum Reservoir Computing experiments under budget constraints.
+- **[memry](https://github.com/eybmits/memry)** - Spaced repetition learning app with LLM tutoring, transfer questions, and guest mode.
 - **[qrc-website](https://github.com/eybmits/qrc-website)** - Interactive QRC learning site with spaced repetition.
 - **[personal-website](https://github.com/eybmits/personal-website)** - Personal website built with Astro.
 - **[eybmits.github.io](https://github.com/eybmits/eybmits.github.io)** - Live deployment repository for my public website.
+- **[qtp](https://github.com/eybmits/qtp)** - QTP research repository.
+- **[qrc_low_data_advantage](https://github.com/eybmits/qrc_low_data_advantage)** - QRC under low-data regimes.
 
 ## Public Documentation Hub
 
-All public repositories in one place, with a short purpose summary:
+All public project repositories in one place, with a short purpose summary:
 
 | Repository | Purpose | Last Updated |
 |---|---|---|
+| [memry](https://github.com/eybmits/memry) | Spaced repetition + LLM study workflow | 2026-02-20 |
+| [eybmits](https://github.com/eybmits/eybmits) | Profile landing page and public documentation hub | 2026-02-18 |
+| [qrc-website](https://github.com/eybmits/qrc-website) | Interactive QRC learning site | 2026-02-18 |
 | [personal-website](https://github.com/eybmits/personal-website) | Personal website based on Astro | 2026-02-17 |
 | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Live website for eybmits | 2026-02-17 |
-| [qc_entanglement](https://github.com/eybmits/qc_entanglement) | Quantum entanglement experiments | 2026-02-17 |
-| [qrc_budget](https://github.com/eybmits/qrc_budget) | QRC budget experiments | 2026-02-17 |
-| [qrc-website](https://github.com/eybmits/qrc-website) | Interactive QRC learning site | 2026-02-13 |
 | [qtp](https://github.com/eybmits/qtp) | QTP research repository | 2026-01-29 |
 | [qrc_low_data_advantage](https://github.com/eybmits/qrc_low_data_advantage) | QRC under low-data regimes | 2025-12-20 |
-| [Labeling](https://github.com/eybmits/Labeling) | Image labeling tool | 2025-06-01 |
-| [MemeNSFWPipeline](https://github.com/eybmits/MemeNSFWPipeline) | NSFW/meme pipeline experiments | 2025-01-12 |
-| [emoNet](https://github.com/eybmits/emoNet) | Emotion network prototypes | 2024-02-20 |
 
 ## GitHub Activity
 
@@ -56,4 +54,4 @@ All public repositories in one place, with a short purpose summary:
 
 I publish early, document transparently, and iterate fast.
 
-_Last profile update: 2026-02-18._
+_Last profile update: 2026-02-20._
