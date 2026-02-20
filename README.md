@@ -10,26 +10,38 @@
 
 ## Current Projects
 
-- **[memry](https://github.com/eybmits/memry)** - Spaced repetition learning app with LLM tutoring, transfer questions, and guest mode.
-- **[qrc-website](https://github.com/eybmits/qrc-website)** - Interactive QRC learning site with spaced repetition.
-- **[personal-website](https://github.com/eybmits/personal-website)** - Personal website built with Astro.
-- **[eybmits.github.io](https://github.com/eybmits/eybmits.github.io)** - Live deployment repository for my public website.
-- **[qtp](https://github.com/eybmits/qtp)** - QTP research repository.
-- **[qrc_low_data_advantage](https://github.com/eybmits/qrc_low_data_advantage)** - QRC under low-data regimes.
+- 🧠 **[Memry: AI Study Command Center](https://github.com/eybmits/memry)**  
+  Learn faster with spaced repetition + LLM coaching, transfer questions, and guest mode onboarding.  
+  Live: [memry-7ppl.onrender.com](https://memry-7ppl.onrender.com)
 
-## Public Documentation Hub
+- ⚛️ **[QRC Learning Site](https://github.com/eybmits/qrc-website)**  
+  Interactive Quantum Reservoir Computing learning experience with study workflows and explainable examples.
 
-All public project repositories in one place, with a short purpose summary:
+- 🌐 **[Personal Website (Astro)](https://github.com/eybmits/personal-website)**  
+  Source code for my public presence, projects, and research highlights.
 
-| Repository | Purpose | Last Updated |
-|---|---|---|
-| [memry](https://github.com/eybmits/memry) | Spaced repetition + LLM study workflow | 2026-02-20 |
-| [eybmits](https://github.com/eybmits/eybmits) | Profile landing page and public documentation hub | 2026-02-18 |
-| [qrc-website](https://github.com/eybmits/qrc-website) | Interactive QRC learning site | 2026-02-18 |
-| [personal-website](https://github.com/eybmits/personal-website) | Personal website based on Astro | 2026-02-17 |
-| [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Live website for eybmits | 2026-02-17 |
-| [qtp](https://github.com/eybmits/qtp) | QTP research repository | 2026-01-29 |
-| [qrc_low_data_advantage](https://github.com/eybmits/qrc_low_data_advantage) | QRC under low-data regimes | 2025-12-20 |
+- 🚀 **[Website Deployment Repo](https://github.com/eybmits/eybmits.github.io)**  
+  Production deployment for my public website.  
+  Live: [eybmits.github.io](https://eybmits.github.io)
+
+- 🧪 **[QTP Research Lab](https://github.com/eybmits/qtp)**  
+  Experiments and reproducible code around QTP research directions.
+
+- 📉 **[QRC Low-Data Advantage](https://github.com/eybmits/qrc_low_data_advantage)**  
+  Focused experiments on QRC performance in low-data regimes.
+
+## 📚 Public Documentation Hub
+
+Only public project repositories, each with a short purpose and (when available) a live link:
+
+| Repository | Purpose | Live | Last Updated |
+|---|---|---|---|
+| [memry](https://github.com/eybmits/memry) | Spaced repetition + LLM tutoring for real learning loops | [Website](https://memry-7ppl.onrender.com) | 2026-02-20 |
+| [qrc-website](https://github.com/eybmits/qrc-website) | Interactive Quantum Reservoir Computing learning platform | — | 2026-02-18 |
+| [personal-website](https://github.com/eybmits/personal-website) | Astro-based source for my personal web presence | — | 2026-02-17 |
+| [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Production deployment repository for my public site | [Website](https://eybmits.github.io) | 2026-02-17 |
+| [qtp](https://github.com/eybmits/qtp) | QTP research code and experimental artifacts | — | 2026-01-29 |
+| [qrc_low_data_advantage](https://github.com/eybmits/qrc_low_data_advantage) | QRC under low-data constraints and robustness analysis | — | 2025-12-20 |
 
 ## GitHub Activity
 
