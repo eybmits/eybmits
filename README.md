@@ -14,6 +14,10 @@
   Learn faster with spaced repetition + LLM coaching, transfer questions, and guest mode onboarding.  
   Live: [memry-7ppl.onrender.com](https://memry-7ppl.onrender.com)
 
+- 🧪 **[paramham-lab](https://github.com/eybmits/paramham-lab)**  
+  Parametrized Hamiltonians research codebase for implicit differentiation in bilevel Max-Cut optimization.  
+  Focus: reproducible experiments, publication-ready plots, and PyPI-ready packaging.
+
 - ⚛️ **[QRC Learning Site](https://eybmits.github.io/qrc-website/)**  
   Interactive Quantum Reservoir Computing learning experience with study workflows and explainable examples.  
   Repo: [eybmits/qrc-website](https://github.com/eybmits/qrc-website)
@@ -29,6 +33,7 @@ Only public project repositories, each with a short purpose and (when available)
 | Repository | Purpose | Live | Last Updated |
 |---|---|---|---|
 | [memry](https://github.com/eybmits/memry) | Spaced repetition + LLM tutoring for real learning loops | [Website](https://memry-7ppl.onrender.com) | 2026-02-20 |
+| [paramham-lab](https://github.com/eybmits/paramham-lab) | Implicit differentiation experiments for parametrized Max-Cut Hamiltonians | - | 2026-02-26 |
 | [qrc-website](https://github.com/eybmits/qrc-website) | Interactive Quantum Reservoir Computing learning platform | [Website](https://eybmits.github.io/qrc-website/) | 2026-02-18 |
 | [personal-website](https://github.com/eybmits/personal-website) | Astro-based source for my personal web presence | [Website](https://eybmits.github.io/) | 2026-02-17 |
 | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Production deployment repository for my public site | [Website](https://eybmits.github.io) | 2026-02-17 |
@@ -56,4 +61,4 @@ Only public project repositories, each with a short purpose and (when available)
 
 I publish early, document transparently, and iterate fast.
 
-_Last profile update: 2026-02-20._
+_Last profile update: 2026-02-26._
