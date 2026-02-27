@@ -48,9 +48,7 @@ Research-first repositories where I iterate on methods, ablations, and publicati
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://github.com/users/eybmits/contributions)
-
-_This is the official GitHub contributions graph (public activity)._
+I use GitHub's native contribution graph (shown at the top of this profile) so activity stays fully up to date.
 
 ## What I'm Working On
 
