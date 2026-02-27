@@ -47,7 +47,7 @@ Active research repositories and current experiment tracks.
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://github.com/users/eybmits/contributions)
+[![GitHub Contribution Graph](https://ghchart.rshah.org/eybmits)](https://github.com/eybmits)
 
 ## What I'm Working On
 
