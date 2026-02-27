@@ -34,7 +34,6 @@ Only public project repositories, each with a short purpose and (when available)
 |---|---|---|---|
 | [memry](https://github.com/eybmits/memry) | Spaced repetition + LLM tutoring for real learning loops | [Website](https://memry-7ppl.onrender.com) | 2026-02-20 |
 | [qrc-website](https://github.com/eybmits/qrc-website) | Interactive Quantum Reservoir Computing learning platform | [Website](https://eybmits.github.io/qrc-website/) | 2026-02-18 |
-| [personal-website](https://github.com/eybmits/personal-website) | Astro-based source for my personal web presence | [Website](https://eybmits.github.io/) | 2026-02-17 |
 | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Production deployment repository for my public site | [Website](https://eybmits.github.io) | 2026-02-17 |
 
 ## 🧪 Open Research
