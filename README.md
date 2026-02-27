@@ -33,10 +33,18 @@ Only public project repositories, each with a short purpose and (when available)
 | Repository | Purpose | Live | Last Updated |
 |---|---|---|---|
 | [memry](https://github.com/eybmits/memry) | Spaced repetition + LLM tutoring for real learning loops | [Website](https://memry-7ppl.onrender.com) | 2026-02-20 |
-| [paramham-lab](https://github.com/eybmits/paramham-lab) | Implicit differentiation experiments for parametrized Max-Cut Hamiltonians | - | 2026-02-26 |
 | [qrc-website](https://github.com/eybmits/qrc-website) | Interactive Quantum Reservoir Computing learning platform | [Website](https://eybmits.github.io/qrc-website/) | 2026-02-18 |
 | [personal-website](https://github.com/eybmits/personal-website) | Astro-based source for my personal web presence | [Website](https://eybmits.github.io/) | 2026-02-17 |
 | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Production deployment repository for my public site | [Website](https://eybmits.github.io) | 2026-02-17 |
+
+## 🧪 Open Research
+
+Research-first repositories where I iterate on methods, ablations, and publication-focused experiments:
+
+| Project | Focus | Repository | Last Updated |
+|---|---|---|---|
+| ParamHam | Parametrized Hamiltonians + implicit differentiation for bilevel Max-Cut | [paramham-lab](https://github.com/eybmits/paramham-lab) | 2026-02-26 |
+| QRC Budget | Budget-aware QRC studies, ablations, and crossover analysis | [qrc_budget](https://github.com/eybmits/qrc_budget) | 2026-02-27 |
 
 ## GitHub Activity
 
@@ -61,4 +69,4 @@ Only public project repositories, each with a short purpose and (when available)
 
 I publish early, document transparently, and iterate fast.
 
-_Last profile update: 2026-02-26._
+_Last profile update: 2026-02-27._
