@@ -38,7 +38,7 @@ Selected public repositories and their primary outputs.
 
 ## 🧪 Open Research
 
-Research-first repositories where I iterate on methods, ablations, and publication-focused experiments:
+Active research repositories and current experiment tracks.
 
 | Project | Focus | Repository | Last Updated |
 |---|---|---|---|
