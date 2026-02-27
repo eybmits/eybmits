@@ -28,7 +28,7 @@
 
 ## 📚 Public Documentation Hub
 
-Only public project repositories, each with a short purpose and (when available) a live link:
+Selected public repositories and their primary outputs.
 
 | Repository | Purpose | Live | Last Updated |
 |---|---|---|---|
