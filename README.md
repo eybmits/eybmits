@@ -33,6 +33,7 @@ Selected public repositories and their primary outputs.
 | Repository | Purpose | Live | Last Updated |
 |---|---|---|---|
 | [memry](https://github.com/eybmits/memry) | Spaced repetition + LLM tutoring for real learning loops | [Website](https://memry-7ppl.onrender.com) | 2026-02-20 |
+| [grammarapp-macos](https://github.com/eybmits/grammarapp-macos) | macOS menubar writing assistant for sentence-level German/English correction | - | 2026-02-27 |
 | [qrc-website](https://github.com/eybmits/qrc-website) | Interactive Quantum Reservoir Computing learning platform | [Website](https://eybmits.github.io/qrc-website/) | 2026-02-18 |
 | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Production deployment repository for my public site | [Website](https://eybmits.github.io) | 2026-02-17 |
 
