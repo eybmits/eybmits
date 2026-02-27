@@ -1,6 +1,6 @@
 # Hi Markus! | Quantum Researcher | Public-by-default
 
-> I build in public and document everything so others can reproduce results fast.
+> I work in public and document rigorously so others can reproduce results efficiently.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
