@@ -15,7 +15,7 @@
   Live: [memry-7ppl.onrender.com](https://memry-7ppl.onrender.com)
 
 - 🧪 **[Parametric Hamiltonians Research](https://github.com/eybmits/parametric-hamiltonians-research)**  
-  Research codebase for parametrized Hamiltonians, implicit differentiation, and quantum-enabled drug discovery workflows.  
+  Research codebase for parametrized Hamiltonians, implicit differentiation, and Max-Cut optimization workflows.  
   Focus: reproducible experiments, publication-ready plots, and PyPI-ready packaging.
 
 - ⚛️ **[QRC Learning Site](https://eybmits.github.io/qrc-website/)**  
@@ -43,7 +43,7 @@ Active research repositories and current experiment tracks.
 
 | Project | Focus | Repository | Last Updated |
 |---|---|---|---|
-| Parametric Hamiltonians Research | Parametrized Hamiltonians + implicit differentiation for bilevel optimization and drug discovery | [parametric-hamiltonians-research](https://github.com/eybmits/parametric-hamiltonians-research) | 2026-02-27 |
+| Parametric Hamiltonians Research | Parametrized Hamiltonians for Max-Cut solving via implicit differentiation and bilevel optimization | [parametric-hamiltonians-research](https://github.com/eybmits/parametric-hamiltonians-research) | 2026-02-27 |
 | QRC Budget | Budget-aware QRC studies, ablations, and crossover analysis | [qrc_budget](https://github.com/eybmits/qrc_budget) | 2026-02-27 |
 
 ## GitHub Activity
