@@ -1,6 +1,6 @@
 # Hi Markus! | Quantum Researcher | Public-by-default
 
-> I use quantum mechanics and quantum computation to accelerate drug discovery, and I build in public.
+> I build in public and document everything so others can reproduce results fast.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
