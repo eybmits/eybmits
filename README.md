@@ -48,7 +48,9 @@ Research-first repositories where I iterate on methods, ablations, and publicati
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/eybmits)
+![GitHub Contribution Graph](https://github.com/users/eybmits/contributions)
+
+_This is the official GitHub contributions graph (public activity)._
 
 ## What I'm Working On
 
