@@ -47,7 +47,7 @@ Active research repositories and current experiment tracks.
 
 ## GitHub Activity
 
-I use GitHub's native contribution graph (shown at the top of this profile) so activity stays fully up to date.
+![GitHub Contribution Graph](https://github.com/users/eybmits/contributions)
 
 ## What I'm Working On
 
