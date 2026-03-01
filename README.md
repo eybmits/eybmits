@@ -43,14 +43,9 @@ Active research repositories and current experiment tracks.
 
 | Project | Focus | Repository | Last Updated |
 |---|---|---|---|
-| IQP Generative Final Plots | Minimal 6-script reproducible release with frozen artifacts, locked plotting settings, and checksum verification | [iqp_generative](https://github.com/eybmits/iqp_generative) | 2026-03-01 |
-| Parametric Hamiltonians Research | Parametrized Hamiltonians for Max-Cut solving via implicit differentiation and bilevel optimization | [parametric-hamiltonians-research](https://github.com/eybmits/parametric-hamiltonians-research) | 2026-02-27 |
-| QRC Budget | Budget-aware QRC studies, ablations, and crossover analysis | [qrc_budget](https://github.com/eybmits/qrc_budget) | 2026-02-27 |
-
-Details:
-- [Research effort overview](https://github.com/eybmits/iqp_generative/blob/main/RESEARCH_EFFORT.md)
-- [Reproducibility guide](https://github.com/eybmits/iqp_generative/blob/main/REPRODUCIBILITY.md)
-- [Artifact manifest](https://github.com/eybmits/iqp_generative/blob/main/outputs/final_plots/ARTIFACT_MANIFEST.md)
+| IQP Generative Final Plots | Camera-ready figure package with 7 standalone scripts, frozen data snapshots, and checksum-tracked artifacts for exact rerendering. | [iqp_generative](https://github.com/eybmits/iqp_generative) | 2026-03-01 |
+| Parametric Hamiltonians Research | Bilevel Max-Cut optimization with parametrized Hamiltonians, benchmarking implicit differentiation against finite differences across VQE/QAOA experiment suites. | [parametric-hamiltonians-research](https://github.com/eybmits/parametric-hamiltonians-research) | 2026-02-27 |
+| QRC Budget | Fixed-budget quantum reservoir computing study comparing EV, SPR, and Split-Ensemble readouts with collapse, phase, and architecture-crossover analyses. | [qrc_budget](https://github.com/eybmits/qrc_budget) | 2026-02-27 |
 
 ## GitHub Activity
 
