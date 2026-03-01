@@ -43,8 +43,14 @@ Active research repositories and current experiment tracks.
 
 | Project | Focus | Repository | Last Updated |
 |---|---|---|---|
+| IQP Generative Final Plots | Minimal 6-script reproducible release with frozen artifacts, locked plotting settings, and checksum verification | [iqp_generative](https://github.com/eybmits/iqp_generative) | 2026-03-01 |
 | Parametric Hamiltonians Research | Parametrized Hamiltonians for Max-Cut solving via implicit differentiation and bilevel optimization | [parametric-hamiltonians-research](https://github.com/eybmits/parametric-hamiltonians-research) | 2026-02-27 |
 | QRC Budget | Budget-aware QRC studies, ablations, and crossover analysis | [qrc_budget](https://github.com/eybmits/qrc_budget) | 2026-02-27 |
+
+Details:
+- [Research effort overview](https://github.com/eybmits/iqp_generative/blob/main/RESEARCH_EFFORT.md)
+- [Reproducibility guide](https://github.com/eybmits/iqp_generative/blob/main/REPRODUCIBILITY.md)
+- [Artifact manifest](https://github.com/eybmits/iqp_generative/blob/main/outputs/final_plots/ARTIFACT_MANIFEST.md)
 
 ## GitHub Activity
 
@@ -69,4 +75,4 @@ Active research repositories and current experiment tracks.
 
 I publish early, document transparently, and iterate fast.
 
-_Last profile update: 2026-02-27._
+_Last profile update: 2026-03-01._
