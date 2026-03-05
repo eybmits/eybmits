@@ -33,11 +33,16 @@ Selected public repositories and their primary outputs.
 | Purpose | Last Updated | Live | Repository |
 |---|---|---|---|
 | Motivational landing + local-first tracker for the 100x100 method | 2026-03-05 | [Website](https://eybmits.github.io/pomodoro-100x100/#/) | [pomodoro-100x100](https://github.com/eybmits/pomodoro-100x100) |
+| Minimal terminal-first longevity training tracker with editable strength programming | 2026-03-06 | [Docs](https://eybmits.github.io/posts/2026/longevity-logbook) | [longevity-logbook](https://github.com/eybmits/longevity-logbook) |
 | Spaced repetition + LLM tutoring for real learning loops | 2026-02-20 | [Website](https://memry-7ppl.onrender.com) | [memry](https://github.com/eybmits/memry) |
 | macOS menubar writing assistant for sentence-level German/English correction | 2026-02-27 | - | [grammarapp-macos](https://github.com/eybmits/grammarapp-macos) |
 | Interactive Quantum Reservoir Computing learning platform | 2026-02-18 | [Website](https://eybmits.github.io/qrc-website/) | [qrc-website](https://github.com/eybmits/qrc-website) |
 | Production deployment repository for my public site | 2026-02-17 | [Website](https://eybmits.github.io) | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) |
 | Animated decision tree for practical first-line brainfog interventions | 2026-03-05 | [Website](https://eybmits.github.io/brainfog-decision-tree/) | [brainfog-decision-tree](https://github.com/eybmits/brainfog-decision-tree) |
+
+### Reuse Notes
+
+- **longevity-logbook**: MIT-licensed terminal app. Clone the repo, run `npm install`, then `npm link` to expose the global `gym` command. Logs stay local in `data/logbook.json`, so others can reuse the tool without any backend setup.
 
 ## 🧪 Open Research
 
@@ -72,4 +77,4 @@ Active research repositories and current experiment tracks.
 
 I publish early, document transparently, and iterate fast.
 
-_Last profile update: 2026-03-05._
+_Last profile update: 2026-03-06._
