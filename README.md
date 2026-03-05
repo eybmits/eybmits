@@ -40,10 +40,6 @@ Selected public repositories and their primary outputs.
 | Production deployment repository for my public site | 2026-02-17 | [Website](https://eybmits.github.io) | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) |
 | Animated decision tree for practical first-line brainfog interventions | 2026-03-05 | [Website](https://eybmits.github.io/brainfog-decision-tree/) | [brainfog-decision-tree](https://github.com/eybmits/brainfog-decision-tree) |
 
-### Reuse Notes
-
-- **longevity-logbook**: MIT-licensed terminal app. Clone the repo, run `npm install`, then `npm link` to expose the global `gym` command. Logs stay local in `data/logbook.json`, so others can reuse the tool without any backend setup.
-
 ## 🧪 Open Research
 
 Active research repositories and current experiment tracks.
