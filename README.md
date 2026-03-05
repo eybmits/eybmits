@@ -8,6 +8,12 @@
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
 
+## Featured Public Project
+
+- **[100x100 Pomodoro](https://github.com/eybmits/pomodoro-100x100)**  
+  Motivational landing + local-first tracker for the 100x100 method (100 skills x 100 Pomodoro sessions).  
+  Live: [eybmits.github.io/pomodoro-100x100](https://eybmits.github.io/pomodoro-100x100/#/)
+
 ## Current Projects
 
 - 🧠 **[Memry: AI Study Command Center](https://github.com/eybmits/memry)**  
@@ -70,4 +76,4 @@ Active research repositories and current experiment tracks.
 
 I publish early, document transparently, and iterate fast.
 
-_Last profile update: 2026-03-01._
+_Last profile update: 2026-03-05._
