@@ -30,13 +30,14 @@
 
 Selected public repositories and their primary outputs.
 
-| Repository | Purpose | Live | Last Updated |
+| Purpose | Last Updated | Live | Repository |
 |---|---|---|---|
-| [pomodoro-100x100](https://github.com/eybmits/pomodoro-100x100) | Motivational landing + local-first tracker for the 100x100 method | [Website](https://eybmits.github.io/pomodoro-100x100/#/) | 2026-03-05 |
-| [memry](https://github.com/eybmits/memry) | Spaced repetition + LLM tutoring for real learning loops | [Website](https://memry-7ppl.onrender.com) | 2026-02-20 |
-| [grammarapp-macos](https://github.com/eybmits/grammarapp-macos) | macOS menubar writing assistant for sentence-level German/English correction | - | 2026-02-27 |
-| [qrc-website](https://github.com/eybmits/qrc-website) | Interactive Quantum Reservoir Computing learning platform | [Website](https://eybmits.github.io/qrc-website/) | 2026-02-18 |
-| [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) | Production deployment repository for my public site | [Website](https://eybmits.github.io) | 2026-02-17 |
+| Motivational landing + local-first tracker for the 100x100 method | 2026-03-05 | [Website](https://eybmits.github.io/pomodoro-100x100/#/) | [pomodoro-100x100](https://github.com/eybmits/pomodoro-100x100) |
+| Spaced repetition + LLM tutoring for real learning loops | 2026-02-20 | [Website](https://memry-7ppl.onrender.com) | [memry](https://github.com/eybmits/memry) |
+| macOS menubar writing assistant for sentence-level German/English correction | 2026-02-27 | - | [grammarapp-macos](https://github.com/eybmits/grammarapp-macos) |
+| Interactive Quantum Reservoir Computing learning platform | 2026-02-18 | [Website](https://eybmits.github.io/qrc-website/) | [qrc-website](https://github.com/eybmits/qrc-website) |
+| Production deployment repository for my public site | 2026-02-17 | [Website](https://eybmits.github.io) | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) |
+| Animated decision tree for practical first-line brainfog interventions | 2026-03-05 | [Website](https://eybmits.github.io/brainfog-decision-tree/) | [brainfog-decision-tree](https://github.com/eybmits/brainfog-decision-tree) |
 
 ## 🧪 Open Research
 
