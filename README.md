@@ -8,12 +8,6 @@
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
 
-## Featured Public Project
-
-- **[100x100 Pomodoro](https://github.com/eybmits/pomodoro-100x100)**  
-  Motivational landing + local-first tracker for the 100x100 method (100 skills x 100 Pomodoro sessions).  
-  Live: [eybmits.github.io/pomodoro-100x100](https://eybmits.github.io/pomodoro-100x100/#/)
-
 ## Current Projects
 
 - 🧠 **[Memry: AI Study Command Center](https://github.com/eybmits/memry)**  
@@ -38,6 +32,7 @@ Selected public repositories and their primary outputs.
 
 | Repository | Purpose | Live | Last Updated |
 |---|---|---|---|
+| [pomodoro-100x100](https://github.com/eybmits/pomodoro-100x100) | Motivational landing + local-first tracker for the 100x100 method | [Website](https://eybmits.github.io/pomodoro-100x100/#/) | 2026-03-05 |
 | [memry](https://github.com/eybmits/memry) | Spaced repetition + LLM tutoring for real learning loops | [Website](https://memry-7ppl.onrender.com) | 2026-02-20 |
 | [grammarapp-macos](https://github.com/eybmits/grammarapp-macos) | macOS menubar writing assistant for sentence-level German/English correction | - | 2026-02-27 |
 | [qrc-website](https://github.com/eybmits/qrc-website) | Interactive Quantum Reservoir Computing learning platform | [Website](https://eybmits.github.io/qrc-website/) | 2026-02-18 |
