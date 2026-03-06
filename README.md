@@ -33,7 +33,7 @@ Selected public repositories and their primary outputs.
 | Purpose | Last Updated | Live | Repository |
 |---|---|---|---|
 | Motivational landing + local-first tracker for the 100x100 method | 2026-03-05 | [Website](https://eybmits.github.io/pomodoro-100x100/#/) | [pomodoro-100x100](https://github.com/eybmits/pomodoro-100x100) |
-| Minimal terminal-first longevity training tracker with editable strength programming | 2026-03-06 | [Docs](https://eybmits.github.io/posts/2026/longevity-logbook) | [longevity-logbook](https://github.com/eybmits/longevity-logbook) |
+| Minimal terminal-first longevity tracker with bodyweight logging and editable strength programming | 2026-03-06 | [Docs](https://eybmits.github.io/posts/2026/longevity-logbook) | [longevity-logbook](https://github.com/eybmits/longevity-logbook) |
 | Spaced repetition + LLM tutoring for real learning loops | 2026-02-20 | [Website](https://memry-7ppl.onrender.com) | [memry](https://github.com/eybmits/memry) |
 | macOS menubar writing assistant for sentence-level German/English correction | 2026-02-27 | - | [grammarapp-macos](https://github.com/eybmits/grammarapp-macos) |
 | Interactive Quantum Reservoir Computing learning platform | 2026-02-18 | [Website](https://eybmits.github.io/qrc-website/) | [qrc-website](https://github.com/eybmits/qrc-website) |
