@@ -1,16 +1,8 @@
 # Markus Baumann (@eybmits)
 
-<img src="assets/profile.png" alt="Markus Baumann profile photo" width="180" align="right">
-
 Researcher at LMU Munich / QAR-Lab working on Quantum Reservoir Computing, Quantum Machine Learning, time-series forecasting, and reproducible research software.
 
 I keep public work auditable: code, experiment manifests, figures, and papers should be inspectable, rerunnable, and easy to extend.
-
-[![Personal website](https://img.shields.io/badge/Personal%20website-eybmits.github.io-111827?style=flat-square)](https://eybmits.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-%40eybmits-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eybmits)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Markus%20Baumann-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=gjjgrw0AAAAJ)
-[![LMU profile](https://img.shields.io/badge/LMU%20profile-Markus%20Baumann-0065BD?style=flat-square)](https://www.ifi.lmu.de/mvs/de/team/kontaktseite/markus-baumann-eb504667.html)
-[![QAR--Lab](https://img.shields.io/badge/QAR--Lab-Research-0F766E?style=flat-square)](https://qarlab.de/en/)
 
 ![LMU Munich](https://img.shields.io/badge/-LMU%20Munich-0065BD?style=flat-square)
 ![QAR-Lab](https://img.shields.io/badge/-QAR--Lab-111827?style=flat-square)
