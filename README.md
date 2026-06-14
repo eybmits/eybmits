@@ -44,7 +44,7 @@ I keep public work auditable: code, experiment manifests, figures, and papers sh
 
 | Project | Live output | Repository |
 |---|---|---|
-| 🎧 VibeTracker / Vibe Shuffle | [Mood-adaptive music validation app](https://eybmits.github.io/vibe_shuffle_site/) | [vibe_shuffle](https://github.com/eybmits/vibe_shuffle) |
+| 🎧 VibeTracker / Vibe Shuffle | [Website](https://eybmits.github.io/vibe_shuffle_site/) | [vibe_shuffle](https://github.com/eybmits/vibe_shuffle) |
 | 🎓 Interactive QRC learning platform | [Website](https://eybmits.github.io/qrc-website/) | [qrc-website](https://github.com/eybmits/qrc-website) |
 | 🏠 Public website and research identity hub | [Website](https://eybmits.github.io) | [personal-website](https://github.com/eybmits/personal-website) |
 | 🔁 Spaced repetition and LLM tutoring loops | [Website](https://memry-7ppl.onrender.com) | [memry](https://github.com/eybmits/memry) |
