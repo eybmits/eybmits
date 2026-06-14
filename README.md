@@ -20,7 +20,7 @@ I keep public work auditable: code, experiment manifests, figures, and papers sh
 - LMU profile: [Markus Baumann, Mobile and Distributed Systems Group](https://www.ifi.lmu.de/mvs/en/team/contact-page/contact-page_9536.html)
 - QAR-Lab: [Quantum Applications and Research Laboratory](https://qarlab.de/en/)
 - GitHub: [@eybmits](https://github.com/eybmits)
-- arXiv: [Markus Baumann author search](https://arxiv.org/search/?query=Markus+Baumann&searchtype=author)
+- Google Scholar: [Markus Baumann profile](https://scholar.google.com/citations?hl=en&user=gjjgrw0AAAAJ)
 
 ## Current research focus
 
