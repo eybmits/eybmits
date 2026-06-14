@@ -1,5 +1,3 @@
-<img src="assets/profile-photo.png" alt="Portrait of Markus Baumann" width="160" align="right">
-
 # Markus Baumann (@eybmits)
 
 Researcher at LMU Munich / QAR-Lab working on Quantum Reservoir Computing, Quantum Machine Learning, time-series forecasting, and reproducible research software.
