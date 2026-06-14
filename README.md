@@ -16,7 +16,7 @@ I keep public work auditable: code, experiment manifests, figures, and papers sh
 
 ## Canonical links
 
-- Website: [eybmits.github.io](https://eybmits.github.io)
+- Personal website: [eybmits.github.io](https://eybmits.github.io/)
 - LMU profile: [Markus Baumann, Mobile and Distributed Systems Group](https://www.ifi.lmu.de/mvs/en/team/contact-page/contact-page_9536.html)
 - QAR-Lab: [Quantum Applications and Research Laboratory](https://qarlab.de/en/)
 - GitHub: [@eybmits](https://github.com/eybmits)
