@@ -1,6 +1,6 @@
 # Markus Baumann (@eybmits)
 
-Researcher at LMU Munich / QAR-Lab working on Quantum Reservoir Computing, Quantum Machine Learning, time-series forecasting, and reproducible research software.
+This is the GitHub profile of Markus Baumann (@eybmits), a researcher at LMU Munich / QAR-Lab working on Quantum Reservoir Computing, Quantum Machine Learning, time-series forecasting, and reproducible research software.
 
 I keep public work auditable: code, experiment manifests, figures, and papers should be inspectable, rerunnable, and easy to extend.
 
@@ -14,8 +14,8 @@ I keep public work auditable: code, experiment manifests, figures, and papers sh
 
 ## Canonical links
 
-- Personal website: [eybmits.github.io](https://eybmits.github.io/)
-- GitHub: [@eybmits](https://github.com/eybmits)
+- Personal website: [Markus Baumann](https://eybmits.github.io/)
+- GitHub profile: [Markus Baumann (@eybmits)](https://github.com/eybmits)
 - Google Scholar: [Markus Baumann profile](https://scholar.google.com/citations?hl=en&user=gjjgrw0AAAAJ)
 - LMU profile: [Markus Baumann, LMU Munich / Mobile and Distributed Systems](https://www.ifi.lmu.de/mvs/de/team/kontaktseite/markus-baumann-eb504667.html)
 - QAR-Lab: [Quantum Applications and Research Laboratory](https://qarlab.de/en/)
