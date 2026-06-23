@@ -23,11 +23,10 @@ I keep public work auditable: code, experiment manifests, figures, and papers sh
 
 ## Current research focus
 
-- 🧪 Quantum Reservoir Computing with strict classical, feature-budget, and shot-budget controls.
-- 📏 Quantum Machine Learning benchmarks where claims, baselines, and evidence stay auditable.
-- ⏱️ Time-series forecasting from quantum measurement records and controlled reservoir features.
-- 🧰 Reproducible research software: scripts, manifests, cached artifacts, and publication figures.
-- ⚙️ Quantum generative modeling, parametrized Hamiltonians, and optimization workflows.
+- Quantum computation and mathematical models of quantum information processing.
+- Quantum Reservoir Computing for temporal data, nonlinear dynamics, and forecasting.
+- Time-series analysis with a focus on stochastic and dynamical systems.
+- Statistical evaluation, uncertainty quantification, and reproducible computational research.
 
 ## Open research
 
@@ -60,4 +59,4 @@ I keep public work auditable: code, experiment manifests, figures, and papers sh
 - 🧾 Negative results stay visible when the evidence does not support a stronger claim.
 - 📈 Figures, tables, and papers are generated from tracked sources whenever possible.
 
-_Last profile update: 2026-06-14._
+_Last profile update: 2026-06-23._
