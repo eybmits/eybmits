@@ -15,7 +15,6 @@ I keep public work auditable: code, experiment manifests, figures, and papers sh
 ## Canonical links
 
 - Personal website: [Markus Baumann](https://eybmits.github.io/)
-- GitHub overview page: [Markus Baumann GitHub](https://eybmits.github.io/markus-baumann-github)
 - GitHub profile: [Markus Baumann (@eybmits)](https://github.com/eybmits)
 - Google Scholar: [Markus Baumann profile](https://scholar.google.com/citations?hl=en&user=gjjgrw0AAAAJ)
 - LMU profile: [Markus Baumann, LMU Munich / Mobile and Distributed Systems](https://www.ifi.lmu.de/mvs/de/team/kontaktseite/markus-baumann-eb504667.html)
