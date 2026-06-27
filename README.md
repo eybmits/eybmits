@@ -35,30 +35,29 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 | Project | Focus | Repository |
 |---|---|---|
 | 🧭 QRC Operating Band | Reproducibility package for "Where a Quantum Reservoir Works: A Transferable Operating Band". | [qrc-operating-band](https://github.com/eybmits/qrc-operating-band) |
-| 🪞 QC Symmetry | Public reproducibility package for symmetry-focused quantum-computing experiments. | [qc-symmetry](https://github.com/eybmits/qc-symmetry) |
+| 🪞 VQML Symmetry Artifact | Reproducibility package for symmetry-aware variational quantum machine learning experiments. | [vqml-symmetry-artifact](https://github.com/eybmits/vqml-symmetry-artifact) |
 | 🧬 IQP Generative Modeling | Frozen artifacts and figure pipelines for parity-structured quantum generative modeling. | [iqp-generative-modeling](https://github.com/eybmits/iqp-generative-modeling) |
-| 🧮 Parametrized Hamiltonians | Implicit-differentiation experiments for bilevel Max-Cut optimization. | [parameterized-hamiltonians-id](https://github.com/eybmits/parameterized-hamiltonians-id) |
+| 🧮 Hamiltonian Implicit Differentiation | Implicit-differentiation experiments for bilevel Max-Cut optimization. | [hamiltonian-implicit-differentiation](https://github.com/eybmits/hamiltonian-implicit-differentiation) |
 | 📚 Statistically Learnable QRC | Archival research project on statistically learnable Quantum Reservoir Computing. | [qrc-statistical-learning](https://github.com/eybmits/qrc-statistical-learning) |
 
 ## 🧩 Projects
 
 | Project | Focus | Repository |
 |---|---|---|
-| 🎧 VibeTracker | Mood-adaptive music validation dashboard and experiment site. | [vibe-shuffle](https://github.com/eybmits/vibe-shuffle) |
+| 🎧 VibeTracker | Mood-adaptive music validation dashboard and experiment app. | [vibe-tracker](https://github.com/eybmits/vibe-tracker) |
 | 🌱 Longevity Logbook | Terminal-first training logbook with editable strength programming. | [longevity-logbook](https://github.com/eybmits/longevity-logbook) |
 | ⏱️ 100x100 Pomodoro | Minimal Pomodoro tracker for repeated focused work sessions. | [pomodoro-100x100](https://github.com/eybmits/pomodoro-100x100) |
-| 🧠 Brainfog Decision Tree | Animated decision-tree MVP for low-friction self-assessment. | [brainfog-decision-tree](https://github.com/eybmits/brainfog-decision-tree) |
+| 🧠 Cognitive Decision Tree | Animated decision-tree MVP for low-friction cognitive-state self-assessment. | [cognitive-decision-tree](https://github.com/eybmits/cognitive-decision-tree) |
 
 ## 🛠️ Documentation and tools
 
 | Project | Focus | Repository |
 |---|---|---|
-| 🏠 Research website | Public website and research identity hub. | [personal-website](https://github.com/eybmits/personal-website) |
+| 🏠 Research Website | Public website and research identity hub. | [research-website](https://github.com/eybmits/research-website) |
 | 🌐 GitHub Pages site | Live deployment target for the public research website. | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) |
-| 🎓 Interactive QRC learning platform | Learning site for Quantum Reservoir Computing concepts and flashcards. | [qrc-website](https://github.com/eybmits/qrc-website) |
-| 🔁 Memry | Spaced-repetition and LLM tutoring loops for learning workflows. | [memry](https://github.com/eybmits/memry) |
-| 🎧 Vibe Shuffle site | Static deployment for the Vibe Shuffle validation app. | [vibe-shuffle-site](https://github.com/eybmits/vibe-shuffle-site) |
-| ✍️ macOS writing assistant | Sentence-level German and English correction with fast undo. | [grammarapp-macos](https://github.com/eybmits/grammarapp-macos) |
+| 🎓 QRC Learning Platform | Learning site for Quantum Reservoir Computing concepts and flashcards. | [qrc-learning-platform](https://github.com/eybmits/qrc-learning-platform) |
+| 🔁 Spaced-Repetition Tutor | Spaced-repetition and LLM tutoring loops for learning workflows. | [spaced-repetition-tutor](https://github.com/eybmits/spaced-repetition-tutor) |
+| ✍️ macOS Writing Assistant | Sentence-level German and English correction with fast undo. | [writing-assistant-macos](https://github.com/eybmits/writing-assistant-macos) |
 
 ## Working style
 
