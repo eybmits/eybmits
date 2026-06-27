@@ -30,33 +30,35 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 - Statistical evaluation, uncertainty quantification, and reproducible computational research.
 - How modern research workflows can be accelerated with AI while keeping verification and reproducibility central.
 
-## Open Research
+## 🔬 Open Research
 
 | Project | Focus | Repository |
 |---|---|---|
-| QRC Operating Band | Reproducibility package for "Where a Quantum Reservoir Works: A Transferable Operating Band". | [qrc-operating-band](https://github.com/eybmits/qrc-operating-band) |
-| QC Symmetry | Public reproducibility package for symmetry-focused quantum-computing experiments. | [qc_symmetry](https://github.com/eybmits/qc_symmetry) |
-| IQP Generative Modeling | Frozen artifacts and figure pipelines for parity-structured quantum generative modeling. | [iqp_generative](https://github.com/eybmits/iqp_generative) |
-| Parametrized Hamiltonians | Implicit-differentiation experiments for bilevel Max-Cut optimization. | [parameterized-hamiltonians-id](https://github.com/eybmits/parameterized-hamiltonians-id) |
-| Statistically Learnable QRC | Archival research project on statistically learnable Quantum Reservoir Computing. | [QRC-statistically](https://github.com/eybmits/QRC-statistically) |
+| 🧭 QRC Operating Band | Reproducibility package for "Where a Quantum Reservoir Works: A Transferable Operating Band". | [qrc-operating-band](https://github.com/eybmits/qrc-operating-band) |
+| 🪞 QC Symmetry | Public reproducibility package for symmetry-focused quantum-computing experiments. | [qc_symmetry](https://github.com/eybmits/qc_symmetry) |
+| 🧬 IQP Generative Modeling | Frozen artifacts and figure pipelines for parity-structured quantum generative modeling. | [iqp_generative](https://github.com/eybmits/iqp_generative) |
+| 🧮 Parametrized Hamiltonians | Implicit-differentiation experiments for bilevel Max-Cut optimization. | [parameterized-hamiltonians-id](https://github.com/eybmits/parameterized-hamiltonians-id) |
+| 📚 Statistically Learnable QRC | Archival research project on statistically learnable Quantum Reservoir Computing. | [QRC-statistically](https://github.com/eybmits/QRC-statistically) |
 
-## Projects
-
-| Project | Focus | Repository |
-|---|---|---|
-| VibeTracker | Mood-adaptive music validation dashboard and experiment site. | [vibe_shuffle](https://github.com/eybmits/vibe_shuffle) |
-| Longevity Logbook | Terminal-first training logbook with editable strength programming. | [longevity-logbook](https://github.com/eybmits/longevity-logbook) |
-| 100x100 Pomodoro | Minimal Pomodoro tracker for repeated focused work sessions. | [pomodoro-100x100](https://github.com/eybmits/pomodoro-100x100) |
-| Brainfog Decision Tree | Animated decision-tree MVP for low-friction self-assessment. | [brainfog-decision-tree](https://github.com/eybmits/brainfog-decision-tree) |
-
-## Documentation and tools
+## 🧩 Projects
 
 | Project | Focus | Repository |
 |---|---|---|
-| Research website | Public website and research identity hub. | [personal-website](https://github.com/eybmits/personal-website) |
-| Interactive QRC learning platform | Learning site for Quantum Reservoir Computing concepts and flashcards. | [qrc-website](https://github.com/eybmits/qrc-website) |
-| Memry | Spaced-repetition and LLM tutoring loops for learning workflows. | [memry](https://github.com/eybmits/memry) |
-| macOS writing assistant | Sentence-level German and English correction with fast undo. | [grammarapp-macos](https://github.com/eybmits/grammarapp-macos) |
+| 🎧 VibeTracker | Mood-adaptive music validation dashboard and experiment site. | [vibe_shuffle](https://github.com/eybmits/vibe_shuffle) |
+| 🌱 Longevity Logbook | Terminal-first training logbook with editable strength programming. | [longevity-logbook](https://github.com/eybmits/longevity-logbook) |
+| ⏱️ 100x100 Pomodoro | Minimal Pomodoro tracker for repeated focused work sessions. | [pomodoro-100x100](https://github.com/eybmits/pomodoro-100x100) |
+| 🧠 Brainfog Decision Tree | Animated decision-tree MVP for low-friction self-assessment. | [brainfog-decision-tree](https://github.com/eybmits/brainfog-decision-tree) |
+
+## 🛠️ Documentation and tools
+
+| Project | Focus | Repository |
+|---|---|---|
+| 🏠 Research website | Public website and research identity hub. | [personal-website](https://github.com/eybmits/personal-website) |
+| 🌐 GitHub Pages site | Live deployment target for the public research website. | [eybmits.github.io](https://github.com/eybmits/eybmits.github.io) |
+| 🎓 Interactive QRC learning platform | Learning site for Quantum Reservoir Computing concepts and flashcards. | [qrc-website](https://github.com/eybmits/qrc-website) |
+| 🔁 Memry | Spaced-repetition and LLM tutoring loops for learning workflows. | [memry](https://github.com/eybmits/memry) |
+| 🎧 Vibe Shuffle site | Static deployment for the Vibe Shuffle validation app. | [vibe_shuffle_site](https://github.com/eybmits/vibe_shuffle_site) |
+| ✍️ macOS writing assistant | Sentence-level German and English correction with fast undo. | [grammarapp-macos](https://github.com/eybmits/grammarapp-macos) |
 
 ## Working style
 
