@@ -2,7 +2,7 @@
 
 This is the GitHub profile of Markus Baumann (@eybmits), a researcher at LMU Munich / QAR-Lab working on Quantum Reservoir Computing, Quantum Machine Learning, and time-series forecasting.
 
-I build public research outputs that are auditable and AI-accelerated: code, experiment manifests, figures, and papers should move fast while staying inspectable, rerunnable, and easy to extend.
+I keep public research outputs auditable: code, experiment manifests, figures, and papers should be inspectable, rerunnable, and easy to extend.
 
 ![LMU Munich](https://img.shields.io/badge/-LMU%20Munich-0065BD?style=flat-square)
 ![QAR-Lab](https://img.shields.io/badge/-QAR--Lab-111827?style=flat-square)
@@ -27,12 +27,6 @@ I build public research outputs that are auditable and AI-accelerated: code, exp
 - Quantum Reservoir Computing for temporal data, nonlinear dynamics, and forecasting.
 - Time-series analysis with a focus on stochastic and dynamical systems.
 - Statistical evaluation, uncertainty quantification, and reproducible computational research.
-
-## Philosophy: AI-accelerated research
-
-I use AI as a research accelerator: not to replace scientific judgment, but to compress the loop from question to experiment, from experiment to evidence, and from evidence to reproducible artifact.
-
-In practice, that means using AI systems for literature triage, code generation, experiment design, debugging, and manuscript iteration while keeping the scientific burden where it belongs: human verification, statistical discipline, bounded claims, and artifacts that can be inspected and rerun. Research velocity matters only when the resulting work remains falsifiable, reproducible, and clear about what the evidence does and does not show.
 
 ## Open research
 
@@ -60,8 +54,7 @@ In practice, that means using AI systems for literature triage, code generation,
 ## Working style
 
 - 🌐 Public-by-default research code where possible.
-- ⚡ AI-assisted research loops for reading, prototyping, testing, debugging, and writing.
-- ▶️ One-command reproduction paths before presentation polish.
+- ▶️ One-command reproduction paths before presentation polish (AI can accelerate the loop; the artifact remains the check).
 - 📌 Claims bounded by the artifacts and baselines that produced them.
 - 🧾 Negative results stay visible when the evidence does not support a stronger claim.
 - 📈 Figures, tables, and papers are generated from tracked sources whenever possible.
