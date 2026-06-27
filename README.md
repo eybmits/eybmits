@@ -2,12 +2,12 @@
 
 This is the GitHub profile of Markus Baumann (@eybmits), a researcher at LMU Munich / QAR-Lab working on Quantum Reservoir Computing, Quantum Machine Learning, and time-series forecasting.
 
-I keep public research outputs auditable: code, experiment manifests, figures, and papers should be inspectable, rerunnable, and easy to extend.
+I build public research outputs that are auditable and AI-accelerated: code, experiment manifests, figures, and papers should move fast while staying inspectable, rerunnable, and easy to extend.
 
 ![LMU Munich](https://img.shields.io/badge/-LMU%20Munich-0065BD?style=flat-square)
 ![QAR-Lab](https://img.shields.io/badge/-QAR--Lab-111827?style=flat-square)
 ![Quantum Reservoir Computing](https://img.shields.io/badge/-Quantum%20Reservoir%20Computing-0F766E?style=flat-square)
-![Quantum Machine Learning](https://img.shields.io/badge/-Quantum%20Machine%20Learning-4338CA?style=flat-square)
+![Quantum Machine Learning](https://img.shields.io/badge/-Quantum%20Machine%20Learning-4338CA?style=flat-square&logo=ibm&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
@@ -27,6 +27,12 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 - Quantum Reservoir Computing for temporal data, nonlinear dynamics, and forecasting.
 - Time-series analysis with a focus on stochastic and dynamical systems.
 - Statistical evaluation, uncertainty quantification, and reproducible computational research.
+
+## Philosophy: AI-accelerated research
+
+I use AI as a research accelerator: not to replace scientific judgment, but to compress the loop from question to experiment, from experiment to evidence, and from evidence to reproducible artifact.
+
+In practice, that means using AI systems for literature triage, code generation, experiment design, debugging, and manuscript iteration while keeping the scientific burden where it belongs: human verification, statistical discipline, bounded claims, and artifacts that can be inspected and rerun. Research velocity matters only when the resulting work remains falsifiable, reproducible, and clear about what the evidence does and does not show.
 
 ## Open research
 
@@ -54,9 +60,10 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 ## Working style
 
 - 🌐 Public-by-default research code where possible.
+- ⚡ AI-assisted research loops for reading, prototyping, testing, debugging, and writing.
 - ▶️ One-command reproduction paths before presentation polish.
 - 📌 Claims bounded by the artifacts and baselines that produced them.
 - 🧾 Negative results stay visible when the evidence does not support a stronger claim.
 - 📈 Figures, tables, and papers are generated from tracked sources whenever possible.
 
-_Last profile update: 2026-06-24._
+_Last profile update: 2026-06-27._
