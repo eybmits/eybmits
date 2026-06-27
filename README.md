@@ -27,6 +27,7 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 - Quantum Reservoir Computing for temporal data, nonlinear dynamics, and forecasting.
 - Time-series analysis with a focus on stochastic and dynamical systems.
 - Statistical evaluation, uncertainty quantification, and reproducible computational research.
+- How modern research workflows are accelerated by AI, with verification and reproducibility kept as hard constraints.
 
 ## Open research
 
@@ -54,7 +55,7 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 ## Working style
 
 - 🌐 Public-by-default research code where possible.
-- ▶️ One-command reproduction paths before presentation polish (AI can accelerate the loop; the artifact remains the check).
+- ▶️ One-command reproduction paths before presentation polish.
 - 📌 Claims bounded by the artifacts and baselines that produced them.
 - 🧾 Negative results stay visible when the evidence does not support a stronger claim.
 - 📈 Figures, tables, and papers are generated from tracked sources whenever possible.
