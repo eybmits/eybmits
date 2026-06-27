@@ -7,7 +7,7 @@ I build public research outputs that are auditable and AI-accelerated: code, exp
 ![LMU Munich](https://img.shields.io/badge/-LMU%20Munich-0065BD?style=flat-square)
 ![QAR-Lab](https://img.shields.io/badge/-QAR--Lab-111827?style=flat-square)
 ![Quantum Reservoir Computing](https://img.shields.io/badge/-Quantum%20Reservoir%20Computing-0F766E?style=flat-square)
-![Quantum Machine Learning](https://img.shields.io/badge/-Quantum%20Machine%20Learning-4338CA?style=flat-square&logo=ibm&logoColor=white)
+![Quantum Machine Learning](https://img.shields.io/badge/-Quantum%20Machine%20Learning-4338CA?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
