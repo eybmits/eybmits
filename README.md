@@ -1,6 +1,6 @@
 # Markus Baumann (@eybmits)
 
-I'm Markus Baumann (@eybmits), a researcher at LMU Munich / QAR-Lab working on Quantum Reservoir Computing, Quantum Machine Learning, and time-series forecasting.
+I'm Markus Baumann (@eybmits), a researcher at LMU Munich / QAR-Lab working on mathematical and stochastic models for time-series forecasting, Quantum Reservoir Computing, and Quantum Machine Learning.
 
 I keep public research outputs auditable: code, experiment manifests, figures, and papers should be inspectable, rerunnable, and easy to extend.
 
@@ -23,9 +23,10 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 
 ## Current research focus
 
-- Quantum computation and mathematical models of quantum information processing.
-- Quantum Reservoir Computing for temporal data, nonlinear dynamics, and forecasting.
-- Time-series analysis with a focus on stochastic and dynamical systems.
+- Mathematical and stochastic models for temporal data, uncertainty, and dynamical systems.
+- Time-series forecasting and evaluation under stochastic and nonlinear dynamics.
+- Quantum Reservoir Computing for temporal processing and forecasting tasks.
+- Quantum Machine Learning and mathematical models of quantum information processing.
 - Statistical evaluation, uncertainty quantification, and reproducible computational research.
 - How modern research workflows can be accelerated with AI while keeping verification and reproducibility central.
 
