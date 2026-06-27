@@ -1,6 +1,6 @@
 # Markus Baumann (@eybmits)
 
-This is the GitHub profile of Markus Baumann (@eybmits), a researcher at LMU Munich / QAR-Lab working on Quantum Reservoir Computing, Quantum Machine Learning, and time-series forecasting.
+I'm Markus Baumann (@eybmits), a researcher at LMU Munich / QAR-Lab working on Quantum Reservoir Computing, Quantum Machine Learning, and time-series forecasting.
 
 I keep public research outputs auditable: code, experiment manifests, figures, and papers should be inspectable, rerunnable, and easy to extend.
 
@@ -27,7 +27,7 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 - Quantum Reservoir Computing for temporal data, nonlinear dynamics, and forecasting.
 - Time-series analysis with a focus on stochastic and dynamical systems.
 - Statistical evaluation, uncertainty quantification, and reproducible computational research.
-- How modern research workflows are accelerated by AI, with verification and reproducibility kept as hard constraints.
+- How modern research workflows can be accelerated with AI while keeping verification and reproducibility central.
 
 ## Open research
 
