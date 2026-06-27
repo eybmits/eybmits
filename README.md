@@ -35,8 +35,8 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 | Project | Focus | Repository |
 |---|---|---|
 | 🧭 QRC Operating Band | Reproducibility package for "Where a Quantum Reservoir Works: A Transferable Operating Band". | [qrc-operating-band](https://github.com/eybmits/qrc-operating-band) |
-| 🪞 VQML Symmetry Artifact | Reproducibility package for symmetry-aware variational quantum machine learning experiments. | [vqml-symmetry-artifact](https://github.com/eybmits/vqml-symmetry-artifact) |
-| 🧬 IQP Generative Modeling | Frozen artifacts and figure pipelines for parity-structured quantum generative modeling. | [iqp-generative-modeling](https://github.com/eybmits/iqp-generative-modeling) |
+| 🪞 VQML Symmetry | Reproducibility package for symmetry-aware variational quantum machine learning experiments. | [vqml-symmetry](https://github.com/eybmits/vqml-symmetry) |
+| 🧬 IQP Generative Modeling | Reproducible result packages and figure pipelines for parity-structured quantum generative modeling. | [iqp-generative-modeling](https://github.com/eybmits/iqp-generative-modeling) |
 | 🧮 Hamiltonian Implicit Differentiation | Implicit-differentiation experiments for bilevel Max-Cut optimization. | [hamiltonian-implicit-differentiation](https://github.com/eybmits/hamiltonian-implicit-differentiation) |
 | 📚 Statistically Learnable QRC | Archival research project on statistically learnable Quantum Reservoir Computing. | [qrc-statistical-learning](https://github.com/eybmits/qrc-statistical-learning) |
 
@@ -61,7 +61,7 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 
 ## Working style
 
-I am interested in how excellent science can be done in practice: reproducible experiments, clear documentation, visible negative results, and claims that stay tied to the artifacts and baselines behind them.
+I am interested in how excellent science can be done in practice: reproducible experiments, clear documentation, visible negative results, and claims that stay tied to the evidence, code, and baselines behind them.
 
 I also explore how AI can improve this workflow by helping document, verify, and refine research processes without replacing scientific judgment.
 
