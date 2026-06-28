@@ -32,6 +32,14 @@ I also explore how AI can improve this workflow by helping document, verify, and
 - Statistical evaluation, uncertainty quantification, and reproducible computational research.
 - How modern research workflows can be accelerated with AI while keeping verification and reproducibility central.
 
+## Research standards
+
+- Public artifacts that reviewers, collaborators, and future readers can inspect, rerun, and cite.
+- One-command reproduction paths with tracked configs, experiment manifests, generated figures, and clear result summaries.
+- Strong baselines, uncertainty estimates, ablations, and visible negative results where the evidence requires them.
+- Documentation that makes the scientific contribution easy to evaluate before asking readers to trust it.
+- Repository hygiene: stable project names, canonical links, clean READMEs, and release-ready artifact packages.
+
 ## 🔬 Open Research
 
 | Project | Focus | Repository |
