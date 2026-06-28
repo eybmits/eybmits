@@ -1,8 +1,10 @@
-# Markus Baumann (@eybmits)
+# Markus Baumann
 
-I'm Markus Baumann (@eybmits), a researcher at LMU Munich / QAR-Lab working on mathematical and stochastic models for time-series forecasting, Quantum Reservoir Computing, and Quantum Machine Learning.
+I'm Markus Baumann, a researcher at LMU Munich / QAR-Lab working on mathematical and stochastic models for time-series forecasting, Quantum Reservoir Computing, and Quantum Machine Learning.
 
-I keep public research outputs auditable: code, experiment manifests, figures, and papers should be inspectable, rerunnable, and easy to extend.
+I am interested in how excellent science can be done in practice: reproducible experiments, clear documentation, visible negative results, and claims that stay tied to the artifacts and baselines behind them.
+
+I also explore how AI can improve this workflow by helping document, verify, and refine research processes without replacing scientific judgment.
 
 ![LMU Munich](https://img.shields.io/badge/-LMU%20Munich-0065BD?style=flat-square)
 ![QAR-Lab](https://img.shields.io/badge/-QAR--Lab-111827?style=flat-square)
@@ -15,7 +17,7 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 ## Canonical links
 
 - Personal website: [Markus Baumann](https://eybmits.github.io/)
-- GitHub profile: [Markus Baumann (@eybmits)](https://github.com/eybmits)
+- GitHub profile: [Markus Baumann](https://github.com/eybmits)
 - Google Scholar: [Markus Baumann profile](https://scholar.google.com/citations?hl=en&user=gjjgrw0AAAAJ)
 - LMU profile: [Markus Baumann, LMU Munich / Mobile and Distributed Systems](https://www.ifi.lmu.de/mvs/de/team/kontaktseite/markus-baumann-eb504667.html)
 - QAR-Lab: [Quantum Applications and Research Laboratory](https://qarlab.de/en/)
@@ -58,11 +60,3 @@ I keep public research outputs auditable: code, experiment manifests, figures, a
 | 🎓 QRC Learning Platform | Learning site for Quantum Reservoir Computing concepts and flashcards. | [qrc-learning-platform](https://github.com/eybmits/qrc-learning-platform) |
 | 🔁 Spaced-Repetition Tutor | Spaced-repetition and LLM tutoring loops for learning workflows. | [spaced-repetition-tutor](https://github.com/eybmits/spaced-repetition-tutor) |
 | ✍️ macOS Writing Assistant | Sentence-level German and English correction with fast undo. | [writing-assistant-macos](https://github.com/eybmits/writing-assistant-macos) |
-
-## Working style
-
-I am interested in how excellent science can be done in practice: reproducible experiments, clear documentation, visible negative results, and claims that stay tied to the evidence, code, and baselines behind them.
-
-I also explore how AI can improve this workflow by helping document, verify, and refine research processes without replacing scientific judgment.
-
-Last profile update: 2026-06-27.
