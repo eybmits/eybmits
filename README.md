@@ -2,9 +2,9 @@
 
 I'm Markus Baumann, a researcher at LMU Munich / QAR-Lab working on mathematical and stochastic models for time-series forecasting, Quantum Reservoir Computing, and Quantum Machine Learning.
 
-I am interested in how excellent science can be done in practice: reproducible experiments, clear documentation, visible negative results, and claims that stay tied to the artifacts and baselines behind them.
+I am interested in the science of the future: agentic research workflows, AI-assisted experimentation, faster validation loops, and new ways to accelerate science while making it more robust, reproducible, inspectable, and useful.
 
-I also explore how AI can improve this workflow by helping document, verify, and refine research processes without replacing scientific judgment.
+I care about rapid prototyping for research and engineering: moving from ideas to experiments, artifacts, and full applications in days, not months.
 
 ![LMU Munich](https://img.shields.io/badge/-LMU%20Munich-0065BD?style=flat-square)
 ![QAR-Lab](https://img.shields.io/badge/-QAR--Lab-111827?style=flat-square)
