@@ -32,13 +32,13 @@ I care about rapid prototyping for research and engineering: moving from ideas t
 
 ## 🔬 Open Research
 
-These are the public reproducibility packages for my three peer-reviewed papers accepted at IEEE Quantum Week 2026 (QCE26). The arXiv links provide the current manuscripts; proceedings links will be added after publication. Private working repositories are intentionally not linked.
+Selected peer-reviewed research and accompanying public reproducibility packages. Each entry connects the paper with the code, data, documentation, and artifacts needed to inspect and reproduce the reported results. Private works in progress are intentionally not linked.
 
 | Paper | Acceptance | Focus | Paper and code |
 |---|---|---|---|
 | *Parity Supervision as a Driver of Generalization in Quantum Generative Modeling* (2026) | [QCE26](https://qce.quantum.ieee.org/2026/) — Quantum–GenAI Co-Design & Co-Discovery (QGDD) Technical Papers | Separates the effect of parity/Walsh-moment supervision from the IQP architecture and tests generalization to unseen valid states. | [arXiv](https://arxiv.org/abs/2605.10258) · [reproducibility package](https://github.com/eybmits/iqp-generative-modeling) |
 | *Exploiting More Than Symmetry in Variational Quantum Machine Learning* (2026) | [QCE26](https://qce.quantum.ieee.org/2026/) — 4th International Workshop on Quantum Machine Learning: From Research to Practice | Shows that symmetry defines the admissible circuit family, while task-aligned trainable interactions drive the larger generalization gains. | [arXiv](https://arxiv.org/abs/2606.20316) · [reproducibility package](https://github.com/eybmits/vqml-symmetry) |
-| *Where a Quantum Reservoir Works: A Transferable Operating Band* (2026) | [QCE26](https://qce.quantum.ieee.org/2026/) — 4th International Workshop on Quantum Machine Learning: From Research to Practice | Maps a transferable operating region for dissipative quantum reservoirs and provides the complete reproducibility package. | [arXiv](https://arxiv.org/abs/2606.13284) · [reproducibility package](https://github.com/eybmits/qrc-operating-band) |
+| *Where a Quantum Reservoir Works: A Transferable Operating Band* (2026) | [QCE26](https://qce.quantum.ieee.org/2026/) — 4th International Workshop on Quantum Machine Learning: From Research to Practice | Identifies a stable, mechanism-backed operating band that transfers across tasks, reservoir initializations, and chronological holdouts, and shows that a task-free memory diagnostic can locate promising regimes before target-task tuning. | [arXiv](https://arxiv.org/abs/2606.13284) · [reproducibility package](https://github.com/eybmits/qrc-operating-band) |
 
 ## 🧩 Projects
 
