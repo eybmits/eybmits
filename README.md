@@ -32,13 +32,22 @@ I care about rapid prototyping for research and engineering: moving from ideas t
 
 ## 🔬 Open Research
 
-Selected peer-reviewed research and accompanying public reproducibility packages. Each entry connects the paper with the code, data, documentation, and artifacts needed to inspect and reproduce the reported results. Private works in progress are intentionally not linked.
+Selected research papers and accompanying reproducibility packages. Each entry connects the manuscript with the code, data, documentation, and artifacts needed to inspect and reproduce the reported results. Repositories still under review or release preparation are marked private.
+
+### Peer-reviewed and accepted papers
 
 | Paper | Acceptance | Focus | Paper and code |
 |---|---|---|---|
-| *Parity Supervision as a Driver of Generalization in Quantum Generative Modeling* (2026) | [QCE26](https://qce.quantum.ieee.org/2026/) — Quantum–GenAI Co-Design & Co-Discovery (QGDD) Technical Papers | Separates the effect of parity/Walsh-moment supervision from the IQP architecture and tests generalization to unseen valid states. | [arXiv](https://arxiv.org/abs/2605.10258) · [reproducibility package](https://github.com/eybmits/iqp-generative-modeling) |
+| *Parity Supervision as a Driver of Generalization in Quantum Generative Modeling* (2026) | [QCE26](https://qce.quantum.ieee.org/2026/) — Quantum–GenAI Co-Design & Co-Discovery (QGDD) Technical Papers | Separates the effect of parity/Walsh-moment supervision from the IQP architecture and tests generalization to unseen valid states. | [arXiv](https://arxiv.org/abs/2605.10258) · [repository (private)](https://github.com/eybmits/iqp-generative-modeling) |
 | *Exploiting More Than Symmetry in Variational Quantum Machine Learning* (2026) | [QCE26](https://qce.quantum.ieee.org/2026/) — 4th International Workshop on Quantum Machine Learning: From Research to Practice | Shows that symmetry defines the admissible circuit family, while task-aligned trainable interactions drive the larger generalization gains. | [arXiv](https://arxiv.org/abs/2606.20316) · [reproducibility package](https://github.com/eybmits/vqml-symmetry) |
 | *Where a Quantum Reservoir Works: A Transferable Operating Band* (2026) | [QCE26](https://qce.quantum.ieee.org/2026/) — 4th International Workshop on Quantum Machine Learning: From Research to Practice | Identifies a stable, mechanism-backed operating band that transfers across tasks, reservoir initializations, and chronological holdouts, and shows that a task-free memory diagnostic can locate promising regimes before target-task tuning. | [arXiv](https://arxiv.org/abs/2606.13284) · [reproducibility package](https://github.com/eybmits/qrc-operating-band) |
+
+### Preprints
+
+| Paper | Status | Focus | Paper and code |
+|---|---|---|---|
+| *From Quantum Shots to Training Data: Reorganizing Measurement Records in Quantum Machine Learning* (2026) | Preprint | Shows that validation-selected shot grouping turns a fixed measurement record into better training views, improving finite-shot learning at unchanged quantum execution cost. | [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gjjgrw0AAAAJ&citation_for_view=gjjgrw0AAAAJ:DJbcl8HfkQkC) · [arXiv](https://arxiv.org/abs/2604.28160) · [repository (private)](https://github.com/eybmits/adaptive-shot-aggregation) |
+| *Exploiting Symmetry in Quantum Reservoir Computing* (2026) | Preprint; submitted to [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | Provides a sufficient end-to-end construction for symmetry-preserving QRC and shows that alignment gains persist in noisy simulation, on IBM hardware, and on real weather data. | [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gjjgrw0AAAAJ&sortby=pubdate&citation_for_view=gjjgrw0AAAAJ:3htObqc8RwsC) · [arXiv](https://arxiv.org/abs/2607.01187) · [repository (private)](https://github.com/eybmits/qrc-symmetry) |
 
 ## 🧩 Projects
 
