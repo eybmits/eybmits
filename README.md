@@ -32,13 +32,11 @@ I care about rapid prototyping for research and engineering: moving from ideas t
 
 ## 🔬 Open Research
 
-| Project | Focus | Repository |
+Public reproducibility packages for the recent research record are listed here. Private working repositories are intentionally not linked.
+
+| Paper | Focus | Public repository |
 |---|---|---|
-| 🧭 QRC Operating Band | Reproducibility package for "Where a Quantum Reservoir Works: A Transferable Operating Band". | [qrc-operating-band](https://github.com/eybmits/qrc-operating-band) |
-| 🪞 VQML Symmetry | Reproducibility package for symmetry-aware variational quantum machine learning experiments. | [vqml-symmetry](https://github.com/eybmits/vqml-symmetry) |
-| 🧬 IQP Generative Modeling | Reproducible result packages and figure pipelines for parity-structured quantum generative modeling. | [iqp-generative-modeling](https://github.com/eybmits/iqp-generative-modeling) |
-| 🧮 Hamiltonian Implicit Differentiation | Implicit-differentiation experiments for bilevel Max-Cut optimization. | [hamiltonian-implicit-differentiation](https://github.com/eybmits/hamiltonian-implicit-differentiation) |
-| 📚 Statistically Learnable QRC | Archival research project on statistically learnable Quantum Reservoir Computing. | [qrc-statistical-learning](https://github.com/eybmits/qrc-statistical-learning) |
+| *Where a Quantum Reservoir Works: A Transferable Operating Band* (2026) | Maps a transferable operating region for dissipative quantum reservoirs and provides the complete reproducibility package. | [qrc-operating-band](https://github.com/eybmits/qrc-operating-band) |
 
 ## 🧩 Projects
 
