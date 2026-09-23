@@ -23,56 +23,22 @@ I care about rapid prototyping for research and engineering: moving from ideas t
 
 Papers, preprints, and reproducibility packages. Repository links are marked **public** or **private**.
 
-### IEEE QCE 2026 · Forthcoming
+### Peer-reviewed and accepted papers
 
-**Parity Supervision as a Driver of Generalization in Quantum Generative Modeling**
+| Paper | Status | Focus | Links |
+|---|---|---|---|
+| *Parity Supervision as a Driver of Generalization in Quantum Generative Modeling* (2026) | To appear in the [IEEE QCE 2026](https://qce.quantum.ieee.org/2026/) proceedings — Quantum–GenAI Co-Design & Co-Discovery (QGDD) Technical Papers<br>🏆 **[Best Paper Award — 2nd place, QGDD track](https://qce.quantum.ieee.org/2026/wp-content/uploads/sites/13/2026/08/QCE26-Best-Papers-v19.pdf)** | Parity supervision and generalization to unseen valid states in quantum generative models. | [arXiv](https://arxiv.org/abs/2605.10258) · [repository (public)](https://github.com/eybmits/iqp-generative-modeling) |
+| *Symmetry Alone Is Not an Ansatz: Task-Aligned Interactions in Equivariant Quantum Circuits* (2026) | To appear in the [IEEE QCE 2026](https://qce.quantum.ieee.org/2026/) workshop proceedings — 4th International Workshop on Quantum Machine Learning: From Research to Practice | How task-aligned trainable interactions improve learning within symmetry-preserving circuit families. | [arXiv](https://arxiv.org/abs/2606.20316) · [repository (public)](https://github.com/eybmits/vqml-symmetry) |
+| *Where a Quantum Reservoir Works: A Transferable Operating Band* (2026) | To appear in the [IEEE QCE 2026](https://qce.quantum.ieee.org/2026/) workshop proceedings — 4th International Workshop on Quantum Machine Learning: From Research to Practice | A transferable operating band for quantum reservoirs, located using a task-free memory diagnostic. | [arXiv](https://arxiv.org/abs/2606.13284) · [repository (public)](https://github.com/eybmits/qrc-operating-band) |
+| *From Quantum Shots to Training Data: Reorganizing Measurement Records in Quantum Machine Learning* (2026) | Accepted at [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | Improving finite-shot learning by regrouping existing measurement records at unchanged quantum execution cost. | [arXiv](https://arxiv.org/abs/2604.28160) · [repository (private)](https://github.com/eybmits/adaptive-shot-aggregation) |
+| *Exploiting Symmetry in Quantum Reservoir Computing* (2026) | Accepted at [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | End-to-end symmetry-preserving QRC, evaluated in noisy simulation, on IBM hardware, and on real weather data. | [arXiv](https://arxiv.org/abs/2607.01187) · [repository (private)](https://github.com/eybmits/qrc-symmetry) |
 
-> 🏆 **[Best Paper Award — 2nd place, QGDD track](https://qce.quantum.ieee.org/2026/wp-content/uploads/sites/13/2026/08/QCE26-Best-Papers-v19.pdf)** · IEEE QCE 2026
+### Preprints and manuscripts
 
-Parity supervision and generalization to unseen valid states in quantum generative models.<br>
-To appear in the [IEEE QCE 2026](https://qce.quantum.ieee.org/2026/) proceedings · Quantum–GenAI Co-Design & Co-Discovery (QGDD).<br>
-[arXiv](https://arxiv.org/abs/2605.10258) · [repository (public)](https://github.com/eybmits/iqp-generative-modeling)
-
-**Symmetry Alone Is Not an Ansatz: Task-Aligned Interactions in Equivariant Quantum Circuits**
-
-How task-aligned trainable interactions improve learning within symmetry-preserving circuit families.<br>
-To appear in the IEEE QCE 2026 workshop proceedings · 4th International Workshop on Quantum Machine Learning: From Research to Practice.<br>
-[arXiv](https://arxiv.org/abs/2606.20316) · [repository (public)](https://github.com/eybmits/vqml-symmetry)
-
-**Where a Quantum Reservoir Works: A Transferable Operating Band**
-
-A transferable operating band for quantum reservoirs, located using a task-free memory diagnostic.<br>
-To appear in the IEEE QCE 2026 workshop proceedings · 4th International Workshop on Quantum Machine Learning: From Research to Practice.<br>
-[arXiv](https://arxiv.org/abs/2606.13284) · [repository (public)](https://github.com/eybmits/qrc-operating-band)
-
-### IEEE QAI 2026 · Accepted
-
-**From Quantum Shots to Training Data: Reorganizing Measurement Records in Quantum Machine Learning**
-
-Improving finite-shot learning by regrouping existing measurement records at unchanged quantum execution cost.<br>
-Accepted at [IEEE QAI 2026](https://attend.ieee.org/qai-2026/).<br>
-[arXiv](https://arxiv.org/abs/2604.28160) · [repository (private)](https://github.com/eybmits/adaptive-shot-aggregation)
-
-**Exploiting Symmetry in Quantum Reservoir Computing**
-
-End-to-end symmetry-preserving QRC, evaluated in noisy simulation, on IBM hardware, and on real weather data.<br>
-Accepted at IEEE QAI 2026.<br>
-[arXiv](https://arxiv.org/abs/2607.01187) · [repository (private)](https://github.com/eybmits/qrc-symmetry)
-
-### Quantum · Under review
-
-**The Organization of Environmental Coupling Shapes What Quantum Reservoirs Remember**
-
-How independent and shared environmental coupling shape the input history accessible to a quantum reservoir.<br>
-Under review at [Quantum](https://quantum-journal.org/).<br>
-[arXiv](https://arxiv.org/abs/2608.14181) · [repository (private)](https://github.com/eybmits/qrc-dissipation-engineering)
-
-### Manuscript · Publication in preparation
-
-**When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?**
-
-When recent inputs suffice to reproduce a quantum reservoir's outputs, separating missing history, model capacity, and measurement error.<br>
-[repository (private)](https://github.com/eybmits/qrc_vs_qelm)
+| Paper | Status | Focus | Links |
+|---|---|---|---|
+| *When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?* (2026) | Manuscript; publication in preparation | When recent inputs suffice to reproduce a quantum reservoir's outputs, separating missing history, model capacity, and measurement error. | [repository (private)](https://github.com/eybmits/qrc_vs_qelm) |
+| *The Organization of Environmental Coupling Shapes What Quantum Reservoirs Remember* (2026) | Under review at [Quantum](https://quantum-journal.org/) | How independent and shared environmental coupling shape the input history accessible to a quantum reservoir. | [arXiv](https://arxiv.org/abs/2608.14181) · [repository (private)](https://github.com/eybmits/qrc-dissipation-engineering) |
 
 ## Projects
 
