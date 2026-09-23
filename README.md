@@ -1,23 +1,23 @@
 # Markus Baumann
 
-I'm Markus Baumann, a researcher at LMU Munich / QAR-Lab working on mathematical and stochastic models for time-series forecasting, Quantum Reservoir Computing, and Quantum Machine Learning.
+I'm Markus Baumann, a researcher at LMU Munich / QAR-Lab.
 
-I am interested in the science of the future: agentic research workflows, AI-assisted experimentation, faster validation loops, and new ways to accelerate science while making it more robust, reproducible, inspectable, and useful.
+My main focus is **AI for scientific research**: how to use AI to formulate hypotheses, design and run experiments, evaluate evidence, and produce reproducible scientific results. I am interested in AI-assisted and agentic research workflows that make scientific work faster, transparent, and verifiable.
 
-I care about rapid prototyping for research and engineering: moving from ideas to experiments, artifacts, and full applications in days, not months.
-
-![LMU Munich](https://img.shields.io/badge/-LMU%20Munich-0065BD?style=flat-square)
-![QAR-Lab](https://img.shields.io/badge/-QAR--Lab-111827?style=flat-square)
+![AI for Science](https://img.shields.io/badge/-AI%20for%20Science-0065BD?style=flat-square)
+![Time Series](https://img.shields.io/badge/-Time%20Series-2563EB?style=flat-square)
+![Representation Learning](https://img.shields.io/badge/-Representation%20Learning-4338CA?style=flat-square)
 ![Quantum Reservoir Computing](https://img.shields.io/badge/-Quantum%20Reservoir%20Computing-0F766E?style=flat-square)
 ![Quantum Machine Learning](https://img.shields.io/badge/-Quantum%20Machine%20Learning-4338CA?style=flat-square)
 
 [Website](https://eybmits.github.io/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=gjjgrw0AAAAJ) · [LMU profile](https://www.ifi.lmu.de/mvs/de/team/kontaktseite/markus-baumann-eb504667.html) · [QAR-Lab](https://qarlab.de/en/) · [Email](mailto:markus.baumann@campus.lmu.de)
 
-## Research focus
+## Research topics
 
-- **Temporal learning:** mathematical and stochastic models, time-series forecasting, uncertainty, and dynamical systems.
-- **Quantum learning:** Quantum Reservoir Computing, Quantum Machine Learning, and quantum information processing.
-- **Research workflows:** AI-assisted experimentation, rapid prototyping, statistical evaluation, and reproducible computational research.
+- **Time series:** forecasting, temporal structure, stochastic models, and dynamical systems.
+- **Representation learning:** learning useful features and representations for prediction and generalization.
+- **Quantum Reservoir Computing:** quantum dynamics, memory, and temporal information processing.
+- **Quantum Machine Learning:** quantum models, learning objectives, and generalization.
 
 ## Open Research
 
