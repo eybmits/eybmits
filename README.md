@@ -21,7 +21,7 @@ My main focus is **AI for scientific research**: how to use AI to formulate hypo
 
 ## Open Research
 
-Papers, preprints, and reproducibility packages. Repository links are marked **public** or **private**.
+Papers, preprints, and reproducibility packages.
 
 ### Peer-reviewed and accepted papers
 
