@@ -37,7 +37,7 @@ Papers, preprints, and reproducibility packages. Repository links are marked **p
 
 | Paper | Status | Focus | Links |
 |---|---|---|---|
-| *When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?* (2026) | Manuscript; publication in preparation | When recent inputs suffice to reproduce a quantum reservoir's outputs, separating missing history, model capacity, and measurement error. | [repository (private)](https://github.com/eybmits/qrc_vs_qelm) |
+| *When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?* (2026) | Submitted to [ICAART 2027](https://icaart.scitevents.org/) | When recent inputs suffice to reproduce a quantum reservoir's outputs, separating missing history, model capacity, and measurement error. | [repository (private)](https://github.com/eybmits/qrc_vs_qelm) |
 | *The Organization of Environmental Coupling Shapes What Quantum Reservoirs Remember* (2026) | Under review at [Quantum](https://quantum-journal.org/) | How independent and shared environmental coupling shape the input history accessible to a quantum reservoir. | [arXiv](https://arxiv.org/abs/2608.14181) · [repository (private)](https://github.com/eybmits/qrc-dissipation-engineering) |
 
 ## Projects
