@@ -1,8 +1,10 @@
 # Markus Baumann
 
-I'm Markus Baumann, a researcher at LMU Munich / QAR-Lab.
+I'm Markus Baumann, a researcher at LMU Munich and the QAR-Lab.
 
-My main focus is **AI for scientific research**: how to use AI to formulate hypotheses, design and run experiments, evaluate evidence, and produce reproducible scientific results. I am interested in AI-assisted and agentic research workflows that make scientific work faster, transparent, and verifiable.
+My research is in quantum computing. I study quantum machine learning and quantum reservoir computing: how quantum systems learn, remember and process information over time.
+
+Beyond these topics, I work on **AI for scientific research** itself. I use and study AI across the whole research process, from forming hypotheses and designing and running experiments to weighing the evidence and writing up results that others can reproduce. My goal is to find out how far AI can take science, and to make research faster, more transparent and easier to verify.
 
 ![AI for Science](https://img.shields.io/badge/-AI%20for%20Science-0065BD?style=flat-square)
 ![Time Series](https://img.shields.io/badge/-Time%20Series-2563EB?style=flat-square)
@@ -14,10 +16,11 @@ My main focus is **AI for scientific research**: how to use AI to formulate hypo
 
 ## Research topics
 
-- **Time series:** forecasting, temporal structure, stochastic models, and dynamical systems.
-- **Representation learning:** learning useful features and representations for prediction and generalization.
-- **Quantum Reservoir Computing:** quantum dynamics, memory, and temporal information processing.
-- **Quantum Machine Learning:** quantum models, learning objectives, and generalization.
+- **Quantum reservoir computing:** how quantum dynamics store and process information over time.
+- **Quantum machine learning:** quantum models, how they learn and how well they generalize.
+- **Time series:** forecasting, temporal structure, stochastic models and dynamical systems.
+- **Representation learning:** features that help a model predict and generalize.
+- **AI for science:** AI-assisted and agentic workflows for reproducible research.
 
 ## Open Research
 
