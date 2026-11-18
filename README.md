@@ -35,6 +35,7 @@ Papers, preprints, and reproducibility packages.
 | *Where a Quantum Reservoir Works: A Transferable Operating Band* (2026) | To appear in the [IEEE QCE 2026](https://qce.quantum.ieee.org/2026/) workshop proceedings — 4th International Workshop on Quantum Machine Learning: From Research to Practice | A transferable operating band for quantum reservoirs, located using a task-free memory diagnostic. | [arXiv](https://arxiv.org/abs/2606.13284) · [repository (public)](https://github.com/eybmits/qrc-operating-band) |
 | *From Quantum Shots to Training Data: Reorganizing Measurement Records in Quantum Machine Learning* (2026) | Accepted at [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | Improving finite-shot learning by regrouping existing measurement records at unchanged quantum execution cost. | [arXiv](https://arxiv.org/abs/2604.28160) · [repository (public)](https://github.com/eybmits/adaptive-shot-aggregation) |
 | *Exploiting Symmetry in Quantum Reservoir Computing* (2026) | Accepted at [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | End-to-end symmetry-preserving QRC, evaluated in noisy simulation, on IBM hardware, and on real weather data. | [arXiv](https://arxiv.org/abs/2607.01187) · [repository (public)](https://github.com/eybmits/qrc-symmetry) |
+| *When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?* (2026) | Accepted as a short paper at [ICAART 2027](https://icaart.scitevents.org/) | When recent inputs suffice to reproduce a quantum reservoir's outputs, separating missing history, model capacity, and measurement error. | [arXiv](https://arxiv.org/abs/2609.31027) |
 
 ### Preprints and manuscripts
 
@@ -42,14 +43,13 @@ Papers, preprints, and reproducibility packages.
 |---|---|---|---|
 | *Can One Hear the Size of a Clock?* (2026) | Submitted to [Physical Review Letters](https://journals.aps.org/prl/) | A counting law for stochastic clocks, the counterpart of Weyl's law: a network of *d* states sustains fewer than 2(*d*−1)/(π*Q*) rhythms sharper than *Q*, and measured rhythms reveal how large a hidden clock must be. | [arXiv](https://arxiv.org/abs/2611.10252) · [repository (public)](https://github.com/eybmits/can-one-hear-the-size-of-a-clock-code) |
 | *The Fundamental Memory Ceiling of Noisy Quantum Reservoirs* (2026) | Submitted to [Physical Review Letters](https://journals.aps.org/prl/) | Size-independent bounds on input memory under local depolarizing noise, with fresh-qubit supply as the limiting resource. | [arXiv](https://arxiv.org/abs/2610.26228) · [paper + Supplemental Material](https://github.com/eybmits/fresh-qubits-memory/blob/main/paper/memory_limits_prl_2026-10-19-concise.pdf) · [repository (public)](https://github.com/eybmits/fresh-qubits-memory) |
-| *When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?* (2026) | Submitted to [ICAART 2027](https://icaart.scitevents.org/) | When recent inputs suffice to reproduce a quantum reservoir's outputs, separating missing history, model capacity, and measurement error. | [arXiv](https://arxiv.org/abs/2609.31027) · [repository (private)](https://github.com/eybmits/qrc_vs_qelm) |
 | *The Form of Dissipation Shapes What a Quantum Reservoir Remembers* (2026) | Under review at [Quantum](https://quantum-journal.org/) | How the form of dissipation decides the way a quantum reservoir stores, writes and reads its memory, with two theorems on the trade-off between memory and nonlinearity. | [arXiv](https://arxiv.org/abs/2608.14181) · [repository](https://github.com/eybmits/what-a-dissipative-quantum-system-remembers) |
 
 ## Projects
 
 | Project | Focus |
 |---|---|
-| [VibeTracker](https://github.com/eybmits/vibe-tracker) | Mood-adaptive music validation dashboard and experiment app. |
+| [Vibe Shuffle](https://github.com/eybmits/vibe-shuffle) | Browser-based study comparing sensor-guided and random song selection using listeners' ratings of mood fit. |
 | [Longevity Logbook](https://github.com/eybmits/longevity-logbook) | Terminal-first training logbook with editable strength programming. |
 | [100x100 Pomodoro](https://github.com/eybmits/pomodoro-100x100) | Minimal Pomodoro tracker for repeated focused work sessions. |
 | [Cognitive Decision Tree](https://github.com/eybmits/cognitive-decision-tree) | Animated decision-tree MVP for low-friction cognitive-state self-assessment. |
