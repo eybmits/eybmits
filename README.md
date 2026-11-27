@@ -20,7 +20,7 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 - **Quantum machine learning** — Testing how circuit symmetries and training objectives affect generalization to unseen data.
 - **Time series** — Comparing forecasting methods on chaotic signals and weather records.
 - **Representation learning** — Turning quantum measurements into features that improve predictions.
-- **AI for science** — Using AI to develop hypotheses, run experiments, and check whether results can be reproduced.
+- **AI for science** — How can AI accelerate research, from the first hypothesis to a reproducible result?
 
 ## Open Research
 
