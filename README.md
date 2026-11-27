@@ -32,7 +32,7 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 
 ✓ Accepted · 🏆 QGDD Best Paper Award
 
-## Conjectures resolved along the way
+## Conjectures and open problems resolved along the way
 
 | Conjectures | Result | Proof |
 |---|---|---|
