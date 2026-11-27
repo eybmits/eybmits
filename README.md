@@ -26,14 +26,14 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 
 ### Peer-reviewed and accepted papers
 
-| Paper (arXiv) | Venue | Resources |
+| Paper & code | Key finding | Venue / Best Paper |
 |---|---|---|
-| [Parity-supervised quantum generation](https://arxiv.org/abs/2605.10258 "Parity Supervision as a Driver of Generalization in Quantum Generative Modeling") | [QCE 2026 · QGDD](https://qce.quantum.ieee.org/2026/ "IEEE QCE 2026, QGDD technical papers") | [Code](https://github.com/eybmits/iqp-generative-modeling) · [🏆 Best Paper, 2nd](https://qce.quantum.ieee.org/2026/wp-content/uploads/sites/13/2026/08/QCE26-Best-Papers-v19.pdf "2nd place, QGDD track") |
-| [Task-aligned equivariant circuits](https://arxiv.org/abs/2606.20316 "Symmetry Alone Is Not an Ansatz: Task-Aligned Interactions in Equivariant Quantum Circuits") | [QCE 2026 workshop](https://qce.quantum.ieee.org/2026/ "IEEE QCE 2026, 4th International Workshop on Quantum Machine Learning: From Research to Practice") | [Code](https://github.com/eybmits/vqml-symmetry) |
-| [Where a quantum reservoir works](https://arxiv.org/abs/2606.13284 "Where a Quantum Reservoir Works: A Transferable Operating Band") | [QCE 2026 workshop](https://qce.quantum.ieee.org/2026/ "IEEE QCE 2026, 4th International Workshop on Quantum Machine Learning: From Research to Practice") | [Code](https://github.com/eybmits/qrc-operating-band) |
-| [From quantum shots to training data](https://arxiv.org/abs/2604.28160 "From Quantum Shots to Training Data: Reorganizing Measurement Records in Quantum Machine Learning") | [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | [Code](https://github.com/eybmits/adaptive-shot-aggregation) |
-| [Symmetry in quantum reservoirs](https://arxiv.org/abs/2607.01187 "Exploiting Symmetry in Quantum Reservoir Computing") | [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | [Code](https://github.com/eybmits/qrc-symmetry) |
-| [When can QELMs replace reservoirs?](https://arxiv.org/abs/2609.31027 "When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?") | [ICAART 2027](https://icaart.scitevents.org/) | [Code (private)](https://github.com/eybmits/qrc_vs_qelm) |
+| [Parity training](https://arxiv.org/abs/2605.10258 "Parity Supervision as a Driver of Generalization in Quantum Generative Modeling") · [code](https://github.com/eybmits/iqp-generative-modeling) | Found more unseen high-value states | [QCE ’26](https://qce.quantum.ieee.org/2026/ "IEEE QCE 2026, QGDD technical papers") [🏆 QGDD 2nd](https://qce.quantum.ieee.org/2026/wp-content/uploads/sites/13/2026/08/QCE26-Best-Papers-v19.pdf "Best Paper Award — 2nd place, QGDD track") |
+| [Tic-tac-toe](https://arxiv.org/abs/2606.20316 "Symmetry Alone Is Not an Ansatz: Task-Aligned Interactions in Equivariant Quantum Circuits") · [code](https://github.com/eybmits/vqml-symmetry) | Line gates raised accuracy by 8 points | [QCE ’26 workshop](https://qce.quantum.ieee.org/2026/ "IEEE QCE 2026, 4th International Workshop on Quantum Machine Learning: From Research to Practice") |
+| [Memory test](https://arxiv.org/abs/2606.13284 "Where a Quantum Reservoir Works: A Transferable Operating Band") · [code](https://github.com/eybmits/qrc-operating-band) | Found reservoir settings for four tasks | [QCE ’26 workshop](https://qce.quantum.ieee.org/2026/ "IEEE QCE 2026, 4th International Workshop on Quantum Machine Learning: From Research to Practice") |
+| [Shot grouping](https://arxiv.org/abs/2604.28160 "From Quantum Shots to Training Data: Reorganizing Measurement Records in Quantum Machine Learning") · [code](https://github.com/eybmits/adaptive-shot-aggregation) | Same shots, 9% lower mean error | [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) |
+| [Ring symmetry](https://arxiv.org/abs/2607.01187 "Exploiting Symmetry in Quantum Reservoir Computing") · [code](https://github.com/eybmits/qrc-symmetry) | 32% lower forecast error on an IBM chip | [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) |
+| [Two qubits](https://arxiv.org/abs/2609.31027 "When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?") · [private code](https://github.com/eybmits/qrc_vs_qelm) | Can recall a bit beyond any fixed window | [ICAART 2027](https://icaart.scitevents.org/) |
 
 ### Preprints and manuscripts
 
