@@ -24,26 +24,24 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 
 ## Open Research
 
-Papers, preprints, and reproducibility packages.
-
 ### Peer-reviewed and accepted papers
 
-| Paper | Status | Focus | Links |
-|---|---|---|---|
-| *Parity Supervision as a Driver of Generalization in Quantum Generative Modeling* (2026) | To appear in the [IEEE QCE 2026](https://qce.quantum.ieee.org/2026/) proceedings — Quantum–GenAI Co-Design & Co-Discovery (QGDD) Technical Papers<br>🏆 **[Best Paper Award — 2nd place, QGDD track](https://qce.quantum.ieee.org/2026/wp-content/uploads/sites/13/2026/08/QCE26-Best-Papers-v19.pdf)** | Parity supervision and generalization to unseen valid states in quantum generative models. | [arXiv](https://arxiv.org/abs/2605.10258) · [repository (public)](https://github.com/eybmits/iqp-generative-modeling) |
-| *Symmetry Alone Is Not an Ansatz: Task-Aligned Interactions in Equivariant Quantum Circuits* (2026) | To appear in the [IEEE QCE 2026](https://qce.quantum.ieee.org/2026/) workshop proceedings — 4th International Workshop on Quantum Machine Learning: From Research to Practice | How task-aligned trainable interactions improve learning within symmetry-preserving circuit families. | [arXiv](https://arxiv.org/abs/2606.20316) · [repository (public)](https://github.com/eybmits/vqml-symmetry) |
-| *Where a Quantum Reservoir Works: A Transferable Operating Band* (2026) | To appear in the [IEEE QCE 2026](https://qce.quantum.ieee.org/2026/) workshop proceedings — 4th International Workshop on Quantum Machine Learning: From Research to Practice | A transferable operating band for quantum reservoirs, located using a task-free memory diagnostic. | [arXiv](https://arxiv.org/abs/2606.13284) · [repository (public)](https://github.com/eybmits/qrc-operating-band) |
-| *From Quantum Shots to Training Data: Reorganizing Measurement Records in Quantum Machine Learning* (2026) | Accepted at [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | Improving finite-shot learning by regrouping existing measurement records at unchanged quantum execution cost. | [arXiv](https://arxiv.org/abs/2604.28160) · [repository (public)](https://github.com/eybmits/adaptive-shot-aggregation) |
-| *Exploiting Symmetry in Quantum Reservoir Computing* (2026) | Accepted at [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | End-to-end symmetry-preserving QRC, evaluated in noisy simulation, on IBM hardware, and on real weather data. | [arXiv](https://arxiv.org/abs/2607.01187) · [repository (public)](https://github.com/eybmits/qrc-symmetry) |
-| *When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?* (2026) | Accepted at [ICAART 2027](https://icaart.scitevents.org/) | When recent inputs suffice to reproduce a quantum reservoir's outputs, separating missing history, model capacity, and measurement error. | [arXiv](https://arxiv.org/abs/2609.31027) · [repository (private)](https://github.com/eybmits/qrc_vs_qelm) |
+| Paper (arXiv) | Venue | Resources |
+|---|---|---|
+| [Parity-supervised quantum generation](https://arxiv.org/abs/2605.10258 "Parity Supervision as a Driver of Generalization in Quantum Generative Modeling") | [QCE 2026 · QGDD](https://qce.quantum.ieee.org/2026/ "IEEE QCE 2026, QGDD technical papers") | [Code](https://github.com/eybmits/iqp-generative-modeling) · [🏆 Best Paper, 2nd](https://qce.quantum.ieee.org/2026/wp-content/uploads/sites/13/2026/08/QCE26-Best-Papers-v19.pdf "2nd place, QGDD track") |
+| [Task-aligned equivariant circuits](https://arxiv.org/abs/2606.20316 "Symmetry Alone Is Not an Ansatz: Task-Aligned Interactions in Equivariant Quantum Circuits") | [QCE 2026 workshop](https://qce.quantum.ieee.org/2026/ "IEEE QCE 2026, 4th International Workshop on Quantum Machine Learning: From Research to Practice") | [Code](https://github.com/eybmits/vqml-symmetry) |
+| [Where a quantum reservoir works](https://arxiv.org/abs/2606.13284 "Where a Quantum Reservoir Works: A Transferable Operating Band") | [QCE 2026 workshop](https://qce.quantum.ieee.org/2026/ "IEEE QCE 2026, 4th International Workshop on Quantum Machine Learning: From Research to Practice") | [Code](https://github.com/eybmits/qrc-operating-band) |
+| [From quantum shots to training data](https://arxiv.org/abs/2604.28160 "From Quantum Shots to Training Data: Reorganizing Measurement Records in Quantum Machine Learning") | [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | [Code](https://github.com/eybmits/adaptive-shot-aggregation) |
+| [Symmetry in quantum reservoirs](https://arxiv.org/abs/2607.01187 "Exploiting Symmetry in Quantum Reservoir Computing") | [IEEE QAI 2026](https://attend.ieee.org/qai-2026/) | [Code](https://github.com/eybmits/qrc-symmetry) |
+| [When can QELMs replace reservoirs?](https://arxiv.org/abs/2609.31027 "When Can Quantum Extreme Learning Machines Replace Quantum Reservoirs?") | [ICAART 2027](https://icaart.scitevents.org/) | [Code (private)](https://github.com/eybmits/qrc_vs_qelm) |
 
 ### Preprints and manuscripts
 
-| Paper | Status | Focus | Links |
-|---|---|---|---|
-| *Can One Hear the Size of a Clock?* (2026) | Submitted to [Physical Review Letters](https://journals.aps.org/prl/) | A counting law for stochastic clocks, the counterpart of Weyl's law: a network of *d* states sustains fewer than 2(*d*−1)/(π*Q*) rhythms sharper than *Q*, and measured rhythms reveal how large a hidden clock must be. | [arXiv](https://arxiv.org/abs/2611.10252) · [repository (public)](https://github.com/eybmits/can-one-hear-the-size-of-a-clock-code) |
-| *The Fundamental Memory Ceiling of Noisy Quantum Reservoirs* (2026) | Submitted to [Physical Review Letters](https://journals.aps.org/prl/) | Size-independent bounds on input memory under local depolarizing noise, with fresh-qubit supply as the limiting resource. | [arXiv](https://arxiv.org/abs/2610.26228) · [paper + Supplemental Material](https://github.com/eybmits/fresh-qubits-memory/blob/main/paper/memory_limits_prl_2026-10-19-concise.pdf) · [repository (public)](https://github.com/eybmits/fresh-qubits-memory) |
-| *The Form of Dissipation Shapes What a Quantum Reservoir Remembers* (2026) | Under review at [Quantum](https://quantum-journal.org/) | How the form of dissipation decides the way a quantum reservoir stores, writes and reads its memory, with two theorems on the trade-off between memory and nonlinearity. | [arXiv](https://arxiv.org/abs/2608.14181) · [repository](https://github.com/eybmits/what-a-dissipative-quantum-system-remembers) |
+| Paper (arXiv) | Status | Resources |
+|---|---|---|
+| [Can One Hear the Size of a Clock?](https://arxiv.org/abs/2611.10252) | Submitted to [PRL](https://journals.aps.org/prl/ "Physical Review Letters") | [Code](https://github.com/eybmits/can-one-hear-the-size-of-a-clock-code) |
+| [Memory limits of noisy quantum reservoirs](https://arxiv.org/abs/2610.26228 "The Fundamental Memory Ceiling of Noisy Quantum Reservoirs") | Submitted to [PRL](https://journals.aps.org/prl/ "Physical Review Letters") | [Code](https://github.com/eybmits/fresh-qubits-memory) · [Supplement](https://github.com/eybmits/fresh-qubits-memory/blob/main/paper/memory_limits_prl_2026-10-19-concise.pdf) |
+| [How dissipation shapes reservoir memory](https://arxiv.org/abs/2608.14181 "The Form of Dissipation Shapes What a Quantum Reservoir Remembers") | Under review at [Quantum](https://quantum-journal.org/) | [Code](https://github.com/eybmits/what-a-dissipative-quantum-system-remembers) |
 
 ## Projects
 
