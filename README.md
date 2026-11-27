@@ -6,12 +6,6 @@ My research interests span quantum mechanics, quantum information, and quantum c
 
 Beyond these topics, I work on **AI for scientific research** itself. I use and study AI across the whole research process, from forming hypotheses and designing and running experiments to weighing the evidence and writing up results that others can reproduce. My goal is to find out how far AI can take science, and to make research faster, more transparent and easier to verify.
 
-![AI for Science](https://img.shields.io/badge/-AI%20for%20Science-0065BD?style=flat-square)
-![Time Series](https://img.shields.io/badge/-Time%20Series-2563EB?style=flat-square)
-![Representation Learning](https://img.shields.io/badge/-Representation%20Learning-4338CA?style=flat-square)
-![Quantum Reservoir Computing](https://img.shields.io/badge/-Quantum%20Reservoir%20Computing-0F766E?style=flat-square)
-![Quantum Machine Learning](https://img.shields.io/badge/-Quantum%20Machine%20Learning-4338CA?style=flat-square)
-
 [Website](https://eybmits.github.io/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=gjjgrw0AAAAJ) · [LMU profile](https://www.ifi.lmu.de/mvs/de/team/kontaktseite/markus-baumann-eb504667.html) · [QAR-Lab](https://qarlab.de/en/) · [Email](mailto:markus.baumann@campus.lmu.de)
 
 ## What I’m currently working on
