@@ -37,11 +37,11 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 
 ### Preprints and manuscripts
 
-| Paper (arXiv) | Status | Resources |
+| Paper & code | Key finding | Status |
 |---|---|---|
-| [Can One Hear the Size of a Clock?](https://arxiv.org/abs/2611.10252) | Submitted to [PRL](https://journals.aps.org/prl/ "Physical Review Letters") | [Code](https://github.com/eybmits/can-one-hear-the-size-of-a-clock-code) |
-| [Memory limits of noisy quantum reservoirs](https://arxiv.org/abs/2610.26228 "The Fundamental Memory Ceiling of Noisy Quantum Reservoirs") | Submitted to [PRL](https://journals.aps.org/prl/ "Physical Review Letters") | [Code](https://github.com/eybmits/fresh-qubits-memory) · [Supplement](https://github.com/eybmits/fresh-qubits-memory/blob/main/paper/memory_limits_prl_2026-10-19-concise.pdf) |
-| [How dissipation shapes reservoir memory](https://arxiv.org/abs/2608.14181 "The Form of Dissipation Shapes What a Quantum Reservoir Remembers") | Under review at [Quantum](https://quantum-journal.org/) | [Code](https://github.com/eybmits/what-a-dissipative-quantum-system-remembers) |
+| [Clock size](https://arxiv.org/abs/2611.10252 "Can One Hear the Size of a Clock?") · [code](https://github.com/eybmits/can-one-hear-the-size-of-a-clock-code) | Sharper rhythms require more hidden states | [PRL](https://journals.aps.org/prl/ "Physical Review Letters") · submitted |
+| [Depolarizing noise](https://arxiv.org/abs/2610.26228 "The Fundamental Memory Ceiling of Noisy Quantum Reservoirs") · [code](https://github.com/eybmits/fresh-qubits-memory) | Memory limit is exponential in resets per step | [PRL](https://journals.aps.org/prl/ "Physical Review Letters") · submitted |
+| [Collective decay](https://arxiv.org/abs/2608.14181 "The Form of Dissipation Shapes What a Quantum Reservoir Remembers") · [code](https://github.com/eybmits/what-a-dissipative-quantum-system-remembers) | Stronger loss can prolong memory | [Quantum](https://quantum-journal.org/) · in review |
 
 ## Projects
 
