@@ -51,7 +51,6 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 | [Vibe Shuffle](https://github.com/eybmits/vibe-shuffle) | Browser-based study comparing sensor-guided and random song selection using listeners' ratings of mood fit. |
 | [Longevity Logbook](https://github.com/eybmits/longevity-logbook) | Terminal-first training logbook with editable strength programming. |
 | [100x100 Pomodoro](https://github.com/eybmits/pomodoro-100x100) | Minimal Pomodoro tracker for repeated focused work sessions. |
-| [Cognitive Decision Tree](https://github.com/eybmits/cognitive-decision-tree) | Animated decision-tree MVP for low-friction cognitive-state self-assessment. |
 
 ## Documentation and tools
 
