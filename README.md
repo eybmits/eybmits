@@ -2,7 +2,7 @@
 
 I'm Markus Baumann, a researcher at LMU Munich and the QAR-Lab.
 
-My research is in quantum computing. I study quantum machine learning and quantum reservoir computing: how quantum systems learn, remember and process information over time.
+My research interests span quantum mechanics, quantum information, and quantum computation. I’m especially interested in how quantum systems store information and which problems quantum algorithms can solve efficiently.
 
 Beyond these topics, I work on **AI for scientific research** itself. I use and study AI across the whole research process, from forming hypotheses and designing and running experiments to weighing the evidence and writing up results that others can reproduce. My goal is to find out how far AI can take science, and to make research faster, more transparent and easier to verify.
 
@@ -14,13 +14,13 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 
 [Website](https://eybmits.github.io/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=gjjgrw0AAAAJ) · [LMU profile](https://www.ifi.lmu.de/mvs/de/team/kontaktseite/markus-baumann-eb504667.html) · [QAR-Lab](https://qarlab.de/en/) · [Email](mailto:markus.baumann@campus.lmu.de)
 
-## Research topics
+## What I’m currently working on
 
-- **Quantum reservoir computing:** how quantum dynamics store and process information over time.
-- **Quantum machine learning:** quantum models, how they learn and how well they generalize.
-- **Time series:** forecasting, temporal structure, stochastic models and dynamical systems.
-- **Representation learning:** features that help a model predict and generalize.
-- **AI for science:** AI-assisted and agentic workflows for reproducible research.
+- **Quantum reservoir computing** — Studying when noise erases a reservoir’s memory and when it helps preserve it.
+- **Quantum machine learning** — Testing how circuit symmetries and training objectives affect generalization to unseen data.
+- **Time series** — Comparing forecasting methods on chaotic signals and weather records.
+- **Representation learning** — Turning quantum measurements into features that improve predictions.
+- **AI for science** — Using AI to develop hypotheses, run experiments, and check whether results can be reproduced.
 
 ## Open Research
 
