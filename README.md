@@ -32,6 +32,12 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 
 ✓ Accepted · 🏆 QGDD Best Paper Award
 
+## Conjectures resolved along the way
+
+| Conjectures | Result | Proof |
+|---|---|---|
+| [Small-modulus SIS · Chen et al., B.2 and B.4](https://eprint.iacr.org/2024/256.pdf) | A deterministic polynomial-time algorithm for binary collisions modulo four refutes both conjectures at linear width. | [Private repo](https://github.com/eybmits/mod4-collisions) |
+
 ## Projects
 
 | Project | Focus |
