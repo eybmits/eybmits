@@ -31,9 +31,10 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 
 ## Conjectures and open problems resolved along the way
 
-| Conjectures | Result | Proof |
+| Conjecture or search problem | Result | Proof |
 |---|---|---|
 | [Small-modulus SIS · Chen et al., B.2 and B.4](https://eprint.iacr.org/2024/256.pdf) | A deterministic polynomial-time algorithm for binary collisions modulo four refutes both conjectures at linear width. | [Private repo](https://github.com/eybmits/mod4-collisions) |
+| [Finding a short codeword at the binary Hamming bound](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.14) | Whenever a Hamming ball contains more vectors than syndromes, a quantum algorithm finds two vectors with the same syndrome in $2^{0.0855n+o(n)}$ time for code length $n$, using a classical table readable in superposition. | [Private preprint and checks](https://github.com/eybmits/hamming-bound-witnesses) · external review pending |
 
 ## Projects
 
