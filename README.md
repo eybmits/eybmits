@@ -47,6 +47,7 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 
 | Project | Focus |
 |---|---|
+| [Wolfram S Combinator Challenge](https://github.com/eybmits/pure-s-two-scan-universality) | My proposed solution to the [$20,000 challenge](https://www.combinatorprize.org/) simulates Turing machines by parallel innermost S-reduction, with proofs in Lean. |
 | [Vibe Shuffle](https://github.com/eybmits/vibe-shuffle) | Browser-based study comparing sensor-guided and random song selection using listeners' ratings of mood fit. |
 | [Longevity Logbook](https://github.com/eybmits/longevity-logbook) | Terminal-first training logbook with editable strength programming. |
 | [100x100 Pomodoro](https://github.com/eybmits/pomodoro-100x100) | Minimal Pomodoro tracker for repeated focused work sessions. |
