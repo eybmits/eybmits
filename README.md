@@ -10,11 +10,8 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 
 ## What I’m currently working on
 
-- **Quantum reservoir computing** — Studying when noise erases a reservoir’s memory and when it helps preserve it.
-- **Quantum machine learning** — Testing how circuit symmetries and training objectives affect generalization to unseen data.
-- **Time series** — Comparing forecasting methods on chaotic signals and weather records.
-- **Representation learning** — Turning quantum measurements into features that improve predictions.
-- **AI for science** — How can AI accelerate research, from the first hypothesis to a reproducible result?
+- **AI for science** — How can we use AI to tackle science’s hardest open problems and make discoveries with lasting impact?
+- **Quantum reservoir computing** — On which tasks can quantum reservoirs outperform the best classical methods, and what properties of quantum dynamics could give them that advantage?
 
 ## Open Research
 
