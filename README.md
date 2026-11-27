@@ -57,7 +57,6 @@ Beyond these topics, I work on **AI for scientific research** itself. I use and 
 | Project | Focus |
 |---|---|
 | [Research Website](https://github.com/eybmits/research-website) | Public website and research identity hub. |
-| [GitHub Pages site](https://github.com/eybmits/eybmits.github.io) | Live deployment target for the public research website. |
 | [QRC Learning Platform](https://github.com/eybmits/qrc-learning-platform) | Learning site for Quantum Reservoir Computing concepts and flashcards. |
 | [Spaced-Repetition Tutor](https://github.com/eybmits/spaced-repetition-tutor) | Spaced-repetition and LLM tutoring loops for learning workflows. |
 | [macOS Writing Assistant](https://github.com/eybmits/writing-assistant-macos) | Sentence-level German and English correction with fast undo. |
